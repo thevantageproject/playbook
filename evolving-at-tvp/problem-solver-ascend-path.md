@@ -1,2 +1,2 @@
-# Problem Solver Ascend Path
+# Problem Solver Path
 

@@ -1,4 +1,4 @@
-# Team Assessment Meter
+# Team Psychology Path
 
 Graduating to level 2 requires a minimum score of 8 \(out of 10\) on all attributes of being an A-leader + a successful outcome \(that you owned\) as an A-leader before Day 180.
 

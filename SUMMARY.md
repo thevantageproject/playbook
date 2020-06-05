@@ -40,10 +40,10 @@
 ## Evolving at TVP
 
 * [Ascend Paths](evolving-at-tvp/ascend-paths.md)
-* [Problem Solver Ascend Path](evolving-at-tvp/problem-solver-ascend-path.md)
-* [Problem See-er Ascend Path](evolving-at-tvp/problem-see-er-ascend-path.md)
+* [Problem Solver Path](evolving-at-tvp/problem-solver-ascend-path.md)
+* [Problem See-er Path](evolving-at-tvp/problem-see-er-ascend-path.md)
 * [Organisational Maturity Path](evolving-at-tvp/organisational-maturity-path.md)
-* [Team Assessment Meter](evolving-at-tvp/team-assessment-meter.md)
+* [Team Psychology Path](evolving-at-tvp/team-assessment-meter.md)
 
 ## Executing at TVP <a id="executing-at-tvp-1"></a>
 
