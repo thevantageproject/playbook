@@ -6,11 +6,26 @@
 
 > It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.Steve Jobs
 
-We look for [A-players](). We see ourselves as a sports team, always playing to win. And scout and nurture for the next future Messi/Ronaldo/&lt; insert a player that inspires you &gt;.
+We look for [A-players]().   
+  
+Read more: [https://signalvnoise.com/posts/1430-hire-managers-of-one](https://signalvnoise.com/posts/1430-hire-managers-of-one)
+
+  
+We see ourselves as a sports team, always playing to win. And scout and nurture for the next future Messi/Ronaldo/&lt; insert a player that inspires you &gt;.
 
 * We understand that a job search/switch is a strenous process. We want to make it as swift and predictable as possible.
 * The process is designed to reach a successful conclusion within 2 weeks. And ever candidate we talk to is given closure. That's the least we think we can do.
 * We don't do JDs. Instead you will find us talking about the kind of problems you'd be working on here.
+
+Slack
+
+
+
+current job openings.
+
+
+
+#### 
 
 #### 1. Scouting
 

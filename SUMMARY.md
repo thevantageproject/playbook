@@ -49,8 +49,10 @@
 
 * [Output as a Process](executing-at-tvp-1/output-as-a-process.md)
 * [Critical Constraint](executing-at-tvp-1/lean.md)
+* [Behaviour-Driven Development](executing-at-tvp-1/behaviour-driven-development.md)
 
 ## Leaving TVP <a id="leaving-tvp-1"></a>
 
 * [Leaving TVP](leaving-tvp-1/leaving-tvp.md)
+* [Changelog](https://github.com/thevantageproject/playbook/releases)
 

@@ -8,11 +8,13 @@ description: 'Affordance, not Power. Influence, not control.'
 
 These are non-negotiable and a hard limit. You may not continue employment here without absolute adoption. Violation will result in termination.
 
-#### Equal Opportunity Employment
+#### Equal Opportunity
 
 We are a meritocratic culture. We only care about the value added and the benchmark is the same for everyone, irrespective of their past background or current identity.
 
 This policy is not legally mandated, but we choose it regardless.
+
+that also means, no special priviledges. considerations
 
 #### Code of conduct
 
