@@ -4,6 +4,8 @@
 
 ## Applying to TVP
 
+We see ourselves as a sports team \(think football\) i.e. built to win. We spend significant energy to scout, develop and cut to ensure champions in every position. All our teams are under 11 players, aligned to victory \(not survival\) and relentlessly focussed on promoting A-player potential.
+
 > It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.Steve Jobs
 
 We look for [A-players]().   

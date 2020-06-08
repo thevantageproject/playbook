@@ -6,6 +6,7 @@
 
 * [Understanding Truth](vantage/understanding-truth.md)
 * [Limits of Engagement](vantage/policies.md)
+* [Value System](vantage/value-system.md)
 
 ## Starting at TVP <a id="starting-at-tvp-1"></a>
 
