@@ -1,48 +1,39 @@
 ---
-description: 'Affordance, not Power. Influence, not control.'
+description: >-
+  Your employment here is subject to consent to these limits. These are
+  non-negotiable.
 ---
 
 # Limits of Engagement
 
-## Employment Policies
+### Equal Opportunity
 
-These are non-negotiable and a hard limit. You may not continue employment here without absolute adoption. Violation will result in termination.
+We are a meritocratic culture. Your place here is based on the value that you add, not where you come from or your current identity.
 
-#### Equal Opportunity
+This also means no special privileges/considerations. We see you for you; sans the politics. 
 
-We are a meritocratic culture. We only care about the value added and the benchmark is the same for everyone, irrespective of their past background or current identity.
+### Consent
 
-This policy is not legally mandated, but we choose it regardless.
+No one owes you anything. Engage with respect and empathy.   
+Respect is an outcome of Consent. Consent needs to be explicit. 
 
-that also means, no special priviledges. considerations
+### Truth
 
-#### Code of conduct
+You must not lie, hide or conceal truth anytime. That includes honesty towards yourself and towards others. Irrespective of however hard the truth may be.
 
-* Consent
+### Non-Violence
 
-  Be empathetic of how you treat, speak and think about others. Consent needs to be explicit. And a No, means No.
+You may not bring your agitations when dealing with others. What offends you is your responsibility; address it.
 
-* Honesty
+### Privacy
 
-  You must not lie, hide or conceal truth anytime. That includes honesty towards yourself and towards others. Irrespective of however hard the truth may be.
-
-* Non-Violence
-
-  You may not offload your agitations onto others. They are your responsibility. Instances of violence may include but not limited to physical aggression, verbal shouting and/or an intent to harm.
-
-* Non-Disclosure
-
-  You are expected to not disclose financial/strategic/confidential information to any outsider. When you aren't sure, ask your team leader.
-
-#### Employee Privacy
-
-Personnel records
-
-The company maintains a file for each employee that includes personnel information, documents submitted, communication history, performance records, and other activity.
-
-Digital footprint
-
-You will be assigned a company email account. You are to use that for creating all other work related accounts. No personal accounts to ever be used for work purposes. All such accounts and other work related properties created during employment are company property and not private.
-
-
+We embrace a culture of openess, with consent.   
+  
+Whenever sharing information with the outside world, ask for consent from a Partner before sharing any:  
+1. Financial  
+2. Strategic  
+3. Personal  
+information of the company or its individuals.  
+  
+You will be assigned a company email account. Use that for creating all other work related accounts. No personal accounts to ever be used for work purposes. All such accounts and other work related properties created during employment are company property and not private.
 

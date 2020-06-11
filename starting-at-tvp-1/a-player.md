@@ -1,6 +1,12 @@
+---
+description: 'Read more: https://signalvnoise.com/posts/1430-hire-managers-of-one'
+---
+
 # A-Player Attributes
 
 ## A-Player = Autonomous player
+
+Read more: [https://signalvnoise.com/posts/1430-hire-managers-of-one](https://signalvnoise.com/posts/1430-hire-managers-of-one)
 
 Become a self-functioning, self-learning, and self-performing unit.
 

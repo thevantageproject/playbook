@@ -1,71 +1,53 @@
-# Applying to TVP
+---
+description: We see ourselves as a sports team that is built to win.
+---
 
+# Applying
 
+We spend significant energy to scout, develop and cut to ensure champions in every position. 
 
-## Applying to TVP
-
-We see ourselves as a sports team \(think football\) i.e. built to win. We spend significant energy to scout, develop and cut to ensure champions in every position. All our teams are under 11 players, aligned to victory \(not survival\) and relentlessly focussed on promoting A-player potential.
-
-> It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.Steve Jobs
-
-We look for [A-players]().   
+We are a remote-first team.   
+We expect self-responsibility, ownership mindset and mindfulness in the individuals in our team.  
   
-Read more: [https://signalvnoise.com/posts/1430-hire-managers-of-one](https://signalvnoise.com/posts/1430-hire-managers-of-one)
+We call them A\(utonomous\)-players. Read more about [_**A-player Attributes**_](https://playbook.thevantageproject.com/starting-at-tvp/a-player)_._   
+What does it take to become part of the team:
 
+1. An initial score of at least 5 on each attribute, with a potential for 7
+2. A desire for playing [_long-term games_](https://nav.al/long-term) with long-term people. 
+
+### Application Process
+
+![](../.gitbook/assets/rsz_1rsz_1rsz_jarvis.png)
+
+Meet [_Jarvis_](https://playbook.thevantageproject.com/starting-at-tvp/jarvis/): our in-house AI that executes this process. Currently helping our applicant receive decision in under 3 days.
+
+The steps:
+
+1. **Getting to know you \|** Slack ****This is about understanding your journey, your skills and your desires. 
+2. **Feeling each others energy \|** Zoom ****Let's get on a 15 minute zoom call. We'll use this time to deep dive into your journey. And also include an additional 15 minutes, for any questions you may have. We encourage you to document them before hand. 
+3. **Dry Run \|** Slack  
+   ****Commitment requires conviction. This your moment to build that. 
+
+   We'll invite you to work with us on a weekend work sprint and get a glimpse of what it would be like working with our team.  
+
+4. **Gearing-up for Success \|** Zoom ****It is sub-optimal to commit to a journey without an idea of where it leads. We'll help you by setting up a day-45 win for you. And help you get clarity on how you will be able to achieve it. We'd like to see you start on a high note. 
+5. **Inviting you onboard \|** Slack We'd love to see you accept and come aboard.
+
+
+
+ **Discover Open Positions:** [_https://buidllabs.io/careers/_](https://buidllabs.io/careers/)  
+****
+
+### **First 45 Days**
+
+> Stoploss is a method used in the financial markets to limit loss from a trade that goes wrong, as a method to manage risk.
+
+Day 45 is your stop loss.
+
+We want to see every individual be productive when working here. Sometimes, that will not happen.   
   
-We see ourselves as a sports team, always playing to win. And scout and nurture for the next future Messi/Ronaldo/&lt; insert a player that inspires you &gt;.
-
-* We understand that a job search/switch is a strenous process. We want to make it as swift and predictable as possible.
-* The process is designed to reach a successful conclusion within 2 weeks. And ever candidate we talk to is given closure. That's the least we think we can do.
-* We don't do JDs. Instead you will find us talking about the kind of problems you'd be working on here.
-
-Slack
-
-
-
-current job openings.
-
-
-
-#### 
-
-#### 1. Scouting
-
-Our scouts are always on the look out. When something catches their eye that demonstrates that we might be a relevant spot in the universe for you, they will reach out and have a conversation.
-
-#### 2. Establishing relevance
-
-We like truth. The conversation will usually start with why we think you may be a good fit. And encourage you to apply for the role.
-
-#### 3. Evaluation
-
-This is where we assess current strengths and weaknesses in your skill set and cuture fit. This is usually done asynchronousy over emails, to give you ample mindspace to respond \(and not react\).
-
-#### 4. First date
-
-We don't like the word interview. Instead it is an oppurtunity to get to know each other, for the both of us. Please do come prepared with any questions that you may have for us.
-
-This is also when we'll extend a contingent offer, including specifics of the role. This for us both to get on the same page in terms of expectations. And help you make the decision easier.
-
-#### 5. Meet the team
-
-If you are actively considering us it would be wise to meet and work with the team for a day before you commit to a longer term engagement. This is that moment.
-
-#### 6. Design your next 45 days
-
-We would strongly encourage you to spend time to visualize your next 45 days. If you can’t see it, you haven’t thought about your decision with consciousness. Do so now.
-
-Include but not limit to:
-
-* **Your win:** Map out your OKR for day 30. [Deep dive]()
-* **1:1-review schedule:** Start with scheduling all 1:1s in advance on your team leader's calendar. [Deep dive]()
-* **Self-training:** Account for the time it would take to learn 'how to operate' protocol here. [Deep dive]()
-
-This is the moment of the final offer.
-
-#### Welcome to Day 0
-
-Welcome aboard!
-
-### 
+Day 45, is when we'll strongly ask you to observe your happiness being here.   
+If the answer isn't a resounding yes, you encourage you to walk away. No questions asked.  
+  
+\#Long-term games with long-term players.
 

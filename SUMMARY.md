@@ -5,16 +5,16 @@
 ## Principles <a id="vantage"></a>
 
 * [Understanding Truth](vantage/understanding-truth.md)
-* [Limits of Engagement](vantage/policies.md)
 * [Value System](vantage/value-system.md)
+* [Limits of Engagement](vantage/policies.md)
 
 ## Starting at TVP <a id="starting-at-tvp-1"></a>
 
-* [Applying to TVP](starting-at-tvp-1/applying-to-tvp.md)
-* [Joining Contract](starting-at-tvp-1/joining-contract.md)
+* [Applying](starting-at-tvp-1/applying-to-tvp.md)
+* [Compensation Principle](starting-at-tvp-1/compensation-principle.md)
+* [Contract](starting-at-tvp-1/joining-contract.md)
 * [Jarvis](starting-at-tvp-1/jarvis.md)
 * [A-Player Attributes](starting-at-tvp-1/a-player.md)
-* [Compensation principle](starting-at-tvp-1/compensation-principle.md)
 * [Short-Term Hires](starting-at-tvp-1/short-term-hires.md)
 
 ## Failing at TVP

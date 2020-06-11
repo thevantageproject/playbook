@@ -4,6 +4,8 @@ description: As late as possible. Just in time.
 
 # Critical Constraint
 
+Motion is not progress. Progress is non-trivial.
+
 #### Critical path is the shortest path
 
 In the car assembly line, the maximum rate of production is = the lowest common rate of the all components. ONLY the lowest common rate.
