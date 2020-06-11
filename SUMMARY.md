@@ -12,8 +12,7 @@
 
 * [Applying](starting-at-tvp-1/applying-to-tvp.md)
 * [Compensation Principle](starting-at-tvp-1/compensation-principle.md)
-* [Contract](starting-at-tvp-1/joining-contract.md)
-* [Jarvis](starting-at-tvp-1/jarvis.md)
+* [Joining Contract](starting-at-tvp-1/joining-contract.md)
 * [A-Player Attributes](starting-at-tvp-1/a-player.md)
 * [Short-Term Hires](starting-at-tvp-1/short-term-hires.md)
 
@@ -36,6 +35,7 @@
 * [Work Schedule](operating-at-tvp-1/work-schedule.md)
 * [Getting Paid](operating-at-tvp-1/getting-paid.md)
 * [Tools we use](operating-at-tvp-1/tools-we-use.md)
+* [Jarvis](https://www.thevantageproject.com/jarvis/)
 * [Upgrading Playbook](operating-at-tvp-1/upgrading-playbook.md)
 
 ## Evolving at TVP
