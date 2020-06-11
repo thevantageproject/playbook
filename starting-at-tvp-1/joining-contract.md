@@ -23,9 +23,8 @@ Here is the contract we use: [CONTRACT TEMPLATE](https://docs.google.com/documen
 
 ### Taxes:
 
-* Taxes are applicable on only 50% of your income, at the standard. Read: [_How it works_](https://cleartax.in/s/easiest-way-to-file-returns-and-save-taxes-for-creative-professionals).
+* Taxes are applicable on only 50% of your income, at the standard rates. Read: [_How it works_](https://cleartax.in/s/easiest-way-to-file-returns-and-save-taxes-for-creative-professionals).
   * With the current tax slabs, if your income is under ₹10 lakhs, your tax bill is 0.
-  * Income
 * Applicable TDS is at a flat 10%. Read: [_How it works_](https://cleartax.in/s/section-194j/#Threshold)_._
   * You can view your TDS balance at [_Section 26AS_](https://www.incometaxindia.gov.in/Pages/tax-services/online-26AS-traces.aspx). 
 
