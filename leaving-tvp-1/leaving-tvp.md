@@ -2,7 +2,7 @@
 description: '//todo: When a limit is breached, its an immediate bye.'
 ---
 
-# Leaving TVP
+# Civilized Goodbyes
 
 ## Leaving TVP
 
@@ -29,4 +29,14 @@ If you are not happy, figure out why. Address it. It’s not our responsibility 
 We recognize that our way of work may not be suited for everyone and it may sometimes take a while to dawn. Hence, we offer as much information as early as possible, for you to make an accurate decision. And we continue to create those affordances with multiple checkpoints \(as part of your 1:1s\) along the way. One each at day 45 and month 3.
 
 And if you do reach awareness that we are not your ideal spot, no stress. We will still love you the same and wish to see you succeed in whatever you journey you take forward.
+
+
+
+
+
+
+
+
+
+1. We’ll spend the next month helping you find your ideal spot and pay you for it.  The thought behind it is that if you are still unhappy, then perhaps we are no longer your ideal spot in the universe. We’ll help you find that spot. We’ll make intros where you need and keep your base pay intact to give you ample time to make the next call. 
 

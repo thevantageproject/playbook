@@ -12,7 +12,7 @@ Short-term engagement work the same as long-term engagements except:
 2. Only eligible for level 1 and level 2 roles.
 3. Payouts are on per project basis.
 4. No ascend path, day 45 checkgate.
-5. No ask of using the OKR + feedback system. Usage is however, encouraged.  
+5. No ask of using the OKR + feedback loops. Usage is however, encouraged.  
 
 
 

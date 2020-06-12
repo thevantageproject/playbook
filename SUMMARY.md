@@ -19,11 +19,12 @@
 ## Failing at TVP
 
 * [Realignment Solitude](failing-at-tvp/realignment-solitude.md)
+* [Leveraging Conflict](failing-at-tvp/leveraging-conflict.md)
 
 ## Succeeding at TVP
 
 * [OKRs and Goal Setting](succeeding-at-tvp/okrs-and-goal-setting.md)
-* [Feedback System](succeeding-at-tvp/feedback-tracker.md)
+* [Feedback Loops](succeeding-at-tvp/feedback-tracker.md)
 * [ETA Culture](succeeding-at-tvp/eta-culture.md)
 * [Daily Logs](succeeding-at-tvp/daily-logs.md)
 * [Weekend Syncup](succeeding-at-tvp/weekend-syncup.md)
@@ -54,6 +55,6 @@
 
 ## Leaving TVP <a id="leaving-tvp-1"></a>
 
-* [Leaving TVP](leaving-tvp-1/leaving-tvp.md)
+* [Civilized Goodbyes](leaving-tvp-1/leaving-tvp.md)
 * [Changelog](https://github.com/thevantageproject/playbook/releases)
 
