@@ -1,35 +1,37 @@
+---
+description: DKRs + Accurate Feedback = Self-optimizing loop.
+---
+
 # Feedback Loops
 
-#### 
+### Monthly Status Check 
 
-Here are the loops being introduced:  
+A moment to unlock growth using the instrument of truth, executed through a 1:1 observational conversation with their leader.
 
+The conversation is anchored around the individual's current progress vis-à-vis their current ascend level. This is also where ascends are confirmed.
 
-1. Monthly 1:1 Space Read the new format for 1:1s further below.  
-2. “Help me improve” on Daily logs routine Whenever the individual senses that motion \(not progress\) is starting to rear its head, you can ask for a review. You may also add what you are sensing is occurring.  Your team lead \(if doesn’t exist, then junior partner\) will be available to help observe and course correct.  This will be implemented through Jarvis soon. Until then, it is done manually through DM.  
-3. ETA analytics  
-   ETAs are useless if they are not trackable and their trend, not observable.  
+This is a space available as a mirror.The individual may choose to skip it at their volition.
+
+During the first 45 days, there are 3 additional status checks on day 7, 21 and 45.
+
+#### Why are they valuable
+
+Sometimes, switching from FPP \(first person perspective\) to TPP \(third person perspective\) is easier through leveraging a real third person.
+
+#### Process
+
+1. **Self-scoring by the Individual.** Including their state of mind behind the score.
+2. **Junior Partner offers their lens.** Includes data, scores and their state of mind behind them.
+3. **Facetime** For threads that are more efficiently closed in a verbal conversation.
+
+#### Privacy
+
+By default all status checks are private, except for the ones where ascend occurs. They can be made public by the individual.  
+ 
+
+###    
+
   
-   We will implement a feature of all your currently communicated ETAs and a post-analysis of their accuracy. This will be executed through Jarvis soon.  
-  
-  
-
-
-   **Updated process:**
-
-   1. **Individual self-scores**
-      1. **Including their state of mind behind the score.**
-   2. **Junior Partner joins in**
-      1. **May pull in the individual’s team lead for more data.**
-      2. **Jr partner adds their lense, including scores and their state of mind behind it.** 
-      3. **Conversations can occur with \#facetime, if invited by the individual.**
-
-**Privacy**
-
-**By default all 1:1s are private. Except for the ones where ascend occurs. They are celebration time and also learning data points for others.**   
-
-
-**The individual can still choose to make public their other 1:1s at their volition.**   
 
 
   
