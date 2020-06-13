@@ -1,3 +1,9 @@
+---
+description: >-
+  Deadlines easily become an exercise in heroism. We plan using observing
+  operational reality, not communicated bravado.
+---
+
 # ETA Culture
 
 \#What to do. Get straight to the point.   

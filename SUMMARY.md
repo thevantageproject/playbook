@@ -19,11 +19,10 @@
 ## Failing at TVP
 
 * [Realignment Solitude](failing-at-tvp/realignment-solitude.md)
-* [Leveraging Conflict](failing-at-tvp/leveraging-conflict.md)
 
 ## Succeeding at TVP
 
-* [OKRs and Goal Setting](succeeding-at-tvp/okrs-and-goal-setting.md)
+* [DKRs and Goal Setting](succeeding-at-tvp/okrs-and-goal-setting.md)
 * [Feedback Loops](succeeding-at-tvp/feedback-tracker.md)
 * [ETA Culture](succeeding-at-tvp/eta-culture.md)
 * [Daily Logs](succeeding-at-tvp/daily-logs.md)
