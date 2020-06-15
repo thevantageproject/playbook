@@ -15,7 +15,7 @@ Answer the following questions everyday:
 1. What did you accomplish today?
 2. What do you want to accomplish tomorrow?
 
-The answers will in turn help you build a lens into your reality. 
+The answers will in turn help you build a lens into your reality, over time.. 
 
 This is the easy way to build self-accountability and growth.
 
