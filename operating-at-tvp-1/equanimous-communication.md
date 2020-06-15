@@ -2,34 +2,22 @@
 
 
 
-1. 1. \*\*\*\*
+\*\*\*\*
 
-This is an introduction to Integrity in Communication
 
-1. Applies equally to text and voice.
-   1. Including but not limited to all content that you write.
-2. Applicable not just with other employees but all stakeholders. 
 
 Highly recommended read: [The Pyramid Principle - Lessons from McKinsey](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)  
 
 
-Speak from a place of Empathy
 
-1. When you speak, you are demanding someone else’s mind space to be at your volition albeit momentarily; be respectful of that leverage, for else it shall wither away very fast in a team of doers.  As a consequence, the less you speak; the higher your words are valued. Embrace silence. Speak only when necessary.  
-2. Use cases that are appropriate:
-   1. You have something to add value to the listener’s life. 
-   2. You have an ask of someone that may add value to your life.
 
-  
- Everything else is banter, and without prior consent; it is disrespectful.  
   
   
 
 
-How does empathy translate into words?
+Focus not on what you want to say, but what you want to communicate. 
 
-1. Focus not on what you want to say, but what you want to communicate. 
-   1. For the former is about you, the latter is about them
+1. 1. For the former is about you, the latter is about them
       1. Hence, use words that will help the listener to arrive at what it is that you want for them to hear. 
          1. Will take practice
 2. Structure your ask to be:
