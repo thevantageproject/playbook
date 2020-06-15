@@ -26,7 +26,7 @@
 * [Feedback Loops](succeeding-at-tvp/feedback-tracker.md)
 * [ETA Culture](succeeding-at-tvp/eta-culture.md)
 * [Daily Logs](succeeding-at-tvp/daily-logs.md)
-* [Weekend Syncup](succeeding-at-tvp/weekend-syncup.md)
+* [Weekend Syncups](succeeding-at-tvp/weekend-syncup.md)
 
 ## Operating at TVP <a id="operating-at-tvp-1"></a>
 

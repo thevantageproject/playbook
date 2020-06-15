@@ -1,40 +1,25 @@
-# Weekend Syncup
+# Weekend Syncups
 
-#### **Change 10: Decentralized weekend syncup**
+### All Motion is not Progress.
 
-**Why this change**
+Syncup up weekly with within each project team to maintain alignment between each individual and the project goal.
 
-**Currently we do a org-wide syncup. Even though it serves system owners value, it isn’t valuable for individuals at level 1 and 2. Its impact can be observed in the downward trend of mindspace invested.**  
-
-
-**New weekend syncups**
-
-1. **Project wise Every proposal that is in delivery, is a separate project. Every other process is under project-grants-acquisition.  Syncup will be within each of these teams.**  
-2. **Use it for planning ahead and not retrospective logging. Logging will be primarily left up to daily logs. The new order of questions is:**
-   1. **What do you plan to accomplish this coming week?**
-   2. **Align yourself to your reality. Reality != Being conservative. Here is what you had set as the plan for this week.**
-   3. **What did you accomplish this week.**
-      1. **You may also add things that were not planned. Observe their existence to increase accuracy of looking ahead.**
-
+Done asynchronously as a [_silent meeting_](http://playbook.thevantageproject.com/operating-at-tvp/silent-meetings) __starting at 5pm IST every Friday and concludes on on Saturday 11am IST.  
   
-**Use data from b and c to improve a.Any other thoughts on your mind that you’d like to share with the team.**  
 
 
-\*\*\*\*
+### Template
 
-### **Weekend Syncup:** 
+1. **What do you want to accomplish this coming week?** Use [_SMART_](https://www.youtube.com/watch?v=U4IU-y9-J8Q&feature=youtu.be&t=19).  
+2. **Here is what you set as the goal for this week: ...**
 
-**This document helps to make the weekend syncups more efficient by reducing the time it takes for people to get up to speed with what people had accomplished in the previous week + what they plan to do for the next week.**   
+   **What was the reality?**  
+   Status check of progress on line items from the last Syncup.   
+   Add things that weren't planned but occurred.  
+   ****
 
+   Reality != Being conservative. Reality != heroism. Reality = truth.  
+ 
 
-**Recommendations:** 
-
-1. **Under “What do you plan to achieve in the next week” section mention specific, measurable goals that are falsifiable \(yes I was able to achieve it/no I was not\)**
-   1. **Refer** [**SMART goals for setting goals**](https://www.youtube.com/watch?v=U4IU-y9-J8Q&feature=youtu.be&t=19)**.** 
-   2. **The scope of goals should be limited to the individual and hence no dependency. “What do YOU plan to achieve?”**
-      1. **Eg of a goal that doesn’t work: Working on X with the help of Y.**  
-2. **From 1, similarly under “Accomplishments in the past week” section mention specific achievements.**
-   1. **Please keep it focused to work.** 
-   2. **Please mention only progress, not effort.** 
-      1. **You can choose to say the truth by mentioning no progress.**
+3. **What change can help unblock your efficiency?** 
 
