@@ -1,8 +1,10 @@
+---
+description: System improvement ideas are welcome.
+---
+
 # Upgrading Playbook
 
-### How to update playbook
+Make a PR to the [_Github Repo_](https://github.com/thevantageproject/playbook) proposing the idea and the thought process behind it. 
 
-Make a PR on the [gh-pages branch](https://github.com/thevantageproject/web/blob/gh-pages/playbook/index.html) proposing the change and the pricinple behind it. A discussion will follow. If and when a consensus is reached, it will be merged.
-
-We envisage this structure to be ever-evolving and would encourage you to contribute with your vantage.
+It is added to the agenda for the weekly Partner Syncup. A decision is taken and merged with the main chain.
 

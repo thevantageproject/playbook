@@ -15,12 +15,7 @@ Recommended read: [_Seek wealth, not money or status. @Naval_](https://twitter.c
 
 > “Freedom and nature, Smith concludes, are a surer guide to the creation of a harmonious, functioning society than the supposed reason of philosophers and visionaries.” -Adam Smith
 
-This is our guiding principle. We strive towards the natural order of human behaviour. And like evolution, we are an experiment in-progress.  
-
-
-### How to update the playbook
-
-Make an edit on the [_github repo_](https://github.com/thevantageproject/playbook) and propose a PR to the master branch with details of the proposal. Partners take a call on it during the weekend syncup and if it is accepted, it is merged and implemented in the org.
+This is our guiding principle. We strive towards the natural order of human behavior. And like evolution, we are an experiment in-progress.
 
 
 

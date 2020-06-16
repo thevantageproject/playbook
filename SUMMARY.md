@@ -34,7 +34,6 @@
 * [Effective Communication](operating-at-tvp-1/equanimous-communication.md)
 * [Work Schedule](operating-at-tvp-1/work-schedule.md)
 * [Getting Paid](operating-at-tvp-1/getting-paid.md)
-* [Tools we use](operating-at-tvp-1/tools-we-use.md)
 * [Jarvis](https://www.thevantageproject.com/jarvis/)
 * [Upgrading Playbook](operating-at-tvp-1/upgrading-playbook.md)
 

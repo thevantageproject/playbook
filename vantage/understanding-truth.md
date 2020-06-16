@@ -2,15 +2,15 @@
 
 ## Integrity
 
-Are you really living "your" life, or merely executing learned behaviours \(pre-dispositions\) of the moments past?
+Are you really living "your" life, or merely executing learned behaviors \(pre-dispositions\) of the moments past?
 
-Your peace cannot be acquired through external enquiry, it is already within. It exists in the harmony that is a life lived for your own truth.   
+Your peace cannot be acquired through external inquiry, it is already within. It exists in the harmony that is a life lived for your own truth.   
 Not a life that dances to the tunes of fear, insecurities, delusions, hope i.e. all expectations from the universe to behave at your whim.  
 This is the ego.  
   
 Only free men create value. To be free, you'll need to drop the ego.
 
-For ego is, attachment to the identity of the person that you think you are in your head. In reality, there is only flow.  
+For ego is attachment to the identity of the person that you think you are in your head. In reality, there is only flow.  
 
 
 Integrity != Honesty
