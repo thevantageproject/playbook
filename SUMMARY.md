@@ -31,7 +31,7 @@
 ## Operating at TVP <a id="operating-at-tvp-1"></a>
 
 * [Silent Meetings](operating-at-tvp-1/silent-meetings.md)
-* [Equanimous Communication](operating-at-tvp-1/equanimous-communication.md)
+* [Effective Communication](operating-at-tvp-1/equanimous-communication.md)
 * [Work Schedule](operating-at-tvp-1/work-schedule.md)
 * [Getting Paid](operating-at-tvp-1/getting-paid.md)
 * [Tools we use](operating-at-tvp-1/tools-we-use.md)
@@ -54,6 +54,6 @@
 
 ## Leaving TVP <a id="leaving-tvp-1"></a>
 
-* [Civilized Goodbyes](leaving-tvp-1/leaving-tvp.md)
+* [Happy Goodbyes](leaving-tvp-1/leaving-tvp.md)
 * [Changelog](https://github.com/thevantageproject/playbook/releases)
 

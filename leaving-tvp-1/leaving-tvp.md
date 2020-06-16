@@ -2,7 +2,7 @@
 description: '//todo: When a limit is breached, its an immediate bye.'
 ---
 
-# Civilized Goodbyes
+# Happy Goodbyes
 
 ## Leaving TVP
 
