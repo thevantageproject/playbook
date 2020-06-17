@@ -1,7 +1,7 @@
 ---
 description: >-
-  Change is the natural course of the universe. Be here only until we are your
-  appropriate spot.
+  Change is the natural course of the universe. We encourage you to be here only
+  until we are your appropriate spot.
 ---
 
 # Celebrating Goodbyes
@@ -12,26 +12,26 @@ There are 3 scenarios for goodbyes to occur:
 
 Happiness is a worthy pursuit in itself. Unhappiness kills productivity. You are better off somewhere, where you are happy. We encourage you to take that leap.
 
-#### Routine:
+#### Here is the process:
 
 **1. We can do this together**  
 Our paths becoming divergent does not have to imply that the love between us has to change. We want to see you happy. Try: 
 
 {% page-ref page="../failing-at-tvp/realignment-solitude.md" %}
 
-If happiness is still unsolved, then proceed.
+If unhappiness still exists, then continue.
 
 **2. Leverage our trust in you**  
-We have an extensive network of teams where our word is likely to hold value. Use us for access and leverage. 
+Start looking for new oppurtunities. We have an extensive network of teams where our word is likely to hold value. Use us for access and leverage. 
 
  **3. Do accept our parting gift**  
-Your Profile here will be archived and be made accessible to you in perpetuatity, to showcase your accomplishments during your journey here.
+Your Profile here will be archived and be made accessible to you in perpetuity, as a chronicle of your accomplishments.
 
 
 
 ### 2. You are not ready yet
 
-Sometimes a role may demand higher productivity than where you are at the moment. We will have to say goodbye to you. However, we are likely to be a good fit in due course. 
+Sometimes a role may demand higher productivity than where you are, at the moment. We are likely to be a good fit in due course. But are not, yet.
 
 **1. Feel free to use us**   
 Twitter and our blog is the best place to find our thoughts. Our thoughts are our primary leverage.  
@@ -39,7 +39,7 @@ Twitter and our blog is the best place to find our thoughts. Our thoughts are ou
 **2. Our Parting gift**  
 An invite to our \#mastering and \#learning channels.  
 
-Its fun working together with you and we look forward to doing so in the future.
+It's fun working together with you and we look forward to doing so in the future.
 
 
 
