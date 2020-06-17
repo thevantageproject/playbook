@@ -1,42 +1,62 @@
 ---
-description: '//todo: When a limit is breached, its an immediate bye.'
+description: >-
+  Change is the natural course of the universe. Be here only until we are your
+  appropriate spot.
 ---
 
-# Happy Goodbyes
+# Celebrating Goodbyes
 
-## Leaving TVP
+There are 3 scenarios for goodbyes to occur:
 
-Change is the natural course of the universe. We understand that we are not married for life.
+### 1. You are not happy here
 
-Moreover, we want you to be here only until it is your appropriate spot. It is a legitimate possibility that it isn't going to be the case, in a moment future. We want to encourage you to seek that ideal spot for you and want to make that transition without envoking agitation in either you or the org.
+Happiness is a worthy pursuit in itself. Unhappiness kills productivity. You are better off somewhere, where you are happy. We encourage you to take that leap.
 
-#### Let's do it together
+#### Routine:
 
-Trust us enough to involve us even when the idea of leaving is just a thought. We will run through the process with you together, including offering you vantage on evaluating your considerations, recommending a path ahead and help you with references and connects that would be helpful. Speak with your leader.
+**1. We can do this together**  
+Our paths becoming divergent does not have to imply that the love between us has to change. We want to see you happy. Try: 
 
-#### Interventions
+{% page-ref page="../failing-at-tvp/realignment-solitude.md" %}
 
-Failure is not an event worthy of firing, lack of alignment is. We will only intervene on your \(not your stated desire's\) behalf, if and when we feel you are not happy here AND not asking the question \(from your self\) whether we are still your ideal spot in the universe.
+If happiness is still unsolved, then proceed.
 
-Your team leader will usually intervene using the phrase "Excuse me, Life is Waiting".
+**2. Leverage our trust in you**  
+We have an extensive network of teams where our word is likely to hold value. Use us for access and leverage. 
 
-Be self-responsible.
-
-If you are not happy, figure out why. Address it. It’s not our responsibility to add meaning to your life. Eventhough it is in our interest to do so. We use the tool of affordance, for that's the most we can do.
-
-#### PS: It's not you, it's us
-
-We recognize that our way of work may not be suited for everyone and it may sometimes take a while to dawn. Hence, we offer as much information as early as possible, for you to make an accurate decision. And we continue to create those affordances with multiple checkpoints \(as part of your 1:1s\) along the way. One each at day 45 and month 3.
-
-And if you do reach awareness that we are not your ideal spot, no stress. We will still love you the same and wish to see you succeed in whatever you journey you take forward.
+ **3. Do accept our parting gift**  
+Your Profile here will be archived and be made accessible to you in perpetuatity, to showcase your accomplishments during your journey here.
 
 
 
+### 2. You are not ready yet
+
+Sometimes a role may demand higher productivity than where you are at the moment. We will have to say goodbye to you. However, we are likely to be a good fit in due course. 
+
+**1. Feel free to use us**   
+Twitter and our blog is the best place to find our thoughts. Our thoughts are our primary leverage.  
+  
+**2. Our Parting gift**  
+An invite to our \#mastering and \#learning channels.  
+
+Its fun working together with you and we look forward to doing so in the future.
+
+
+
+### 3. A limit was violated
+
+{% page-ref page="../vantage/policies.md" %}
+
+The occurrence of a violation demonstrates that being here wasn't important enough.
+
+We'll let you go immediately. Bad-faith actions will also attract appropriate punitive action.
 
 
 
 
 
+  
 
-1. We’ll spend the next month helping you find your ideal spot and pay you for it.  The thought behind it is that if you are still unhappy, then perhaps we are no longer your ideal spot in the universe. We’ll help you find that spot. We’ll make intros where you need and keep your base pay intact to give you ample time to make the next call. 
+
+
 

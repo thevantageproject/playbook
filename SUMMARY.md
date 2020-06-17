@@ -39,7 +39,7 @@
 
 ## Evolving at TVP
 
-* [Ascend Paths](evolving-at-tvp/ascend-paths.md)
+* [Basics of Ascending](evolving-at-tvp/ascend-paths.md)
 * [Problem Solver Path](evolving-at-tvp/problem-solver-ascend-path.md)
 * [Problem See-er Path](evolving-at-tvp/problem-see-er-ascend-path.md)
 * [Organisational Maturity Path](evolving-at-tvp/organisational-maturity-path.md)
@@ -47,12 +47,13 @@
 
 ## Executing at TVP <a id="executing-at-tvp-1"></a>
 
+* [Purpose Driven Action](executing-at-tvp-1/purpose-driven-action.md)
 * [Output as a Process](executing-at-tvp-1/output-as-a-process.md)
 * [Critical Constraint](executing-at-tvp-1/lean.md)
 * [Behaviour-Driven Development](executing-at-tvp-1/behaviour-driven-development.md)
 
 ## Leaving TVP <a id="leaving-tvp-1"></a>
 
-* [Happy Goodbyes](leaving-tvp-1/leaving-tvp.md)
+* [Celebrating Goodbyes](leaving-tvp-1/leaving-tvp.md)
 * [Changelog](https://github.com/thevantageproject/playbook/releases)
 

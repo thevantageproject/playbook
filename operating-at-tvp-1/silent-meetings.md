@@ -2,9 +2,7 @@
 
 A typical meeting is someone speaking and everyone listening. Silent meetings are their inversion.
 
->
-
-They are:
+Silent Meetings are:
 
 1. Asynchronous 
 2. Written

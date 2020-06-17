@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image.png)
 
-### How to Ask effectively.
+### How to Ask effectively
 
 Make your Ask:
 
@@ -13,7 +13,7 @@ Include what it is that you want the other person to do. If they don't know, the
 When you write; before you send it; validate that the receiver will have all the inputs that they need, to deliver the output that you need.
 
 **3. Cognitively Light**  
-Easiest asks are the ones that can be responded to in Yes and no. Helping them helps you.  
+Easiest asks are the ones that can be responded with a yes/no. Helping them helps you.  
 
 
 ### How to respond effectively
