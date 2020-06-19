@@ -49,7 +49,7 @@ It's fun working together with you and we look forward to doing so in the future
 
 The occurrence of a violation demonstrates that being here wasn't important enough.
 
-We'll let you go immediately. Bad-faith actions will also attract appropriate punitive action.
+We'll let you go immediately. Actions done in bad-faith will also attract appropriate punitive action.
 
 
 

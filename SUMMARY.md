@@ -41,7 +41,8 @@
 
 * [Basics of Ascending](evolving-at-tvp/ascend-paths.md)
 * [Problem Solver Path](evolving-at-tvp/problem-solver-ascend-path.md)
-* [Problem See-er Path](evolving-at-tvp/problem-see-er-ascend-path.md)
+* [Problem See-er Path](evolving-at-tvp/problem-see-er-ascend-path/README.md)
+  * [Tools](evolving-at-tvp/problem-see-er-ascend-path/tools.md)
 * [Organisational Maturity Path](evolving-at-tvp/organisational-maturity-path.md)
 * [Team Psychology Path](evolving-at-tvp/team-assessment-meter.md)
 
@@ -51,6 +52,7 @@
 * [Output as a Process](executing-at-tvp-1/output-as-a-process.md)
 * [Critical Constraint](executing-at-tvp-1/lean.md)
 * [Behaviour-Driven Development](executing-at-tvp-1/behaviour-driven-development.md)
+* [The real Why](executing-at-tvp-1/the-real-why.md)
 
 ## Leaving TVP <a id="leaving-tvp-1"></a>
 

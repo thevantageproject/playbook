@@ -4,16 +4,48 @@
 
 Every individual's progress here occurs when \(because\) they have grown so much that it becomes stupid to not give them more responsibility. And for no other reason.
 
-Focus all your energies on improving your output. Don't bother with signaling effort. Trust the system
+Focus all your energy on improving your output. Don't bother with signaling effort. Trust the system.
 
+_Leaning Into our Strengths: The Editor/Operator Experiment \| Buffer_
 
+> At its core, it’s about harnessing the complementary strengths of two different work styles: One focused on vision/details/editing and the other on execution/performance/operations.
+>
+> **In sum, the Operator gets us going fast. The Editor keeps us on the right road!**
+>
+> In the past, many of us at Buffer have often tried to work on our own weaknesses and cover both of these mindsets individually. **//this is what happs traditionally**
 
 ### Ascend Paths
+
+|  | Solver | See-er |
+| :--- | :--- | :--- |
+|  | Gets us going fast | Keeps us on the right track |
+| Influences | Self | Team |
+| State of mind | Self-improvement | System-thinking |
+| Base unit | Individual | Team |
+| Thinking | linear | non-linear |
+| Mode | operator | editor |
+|  | Delivering the pot of gold | See-ing the pot of gold |
+
+There isn't a more superior path. Based on your current belief system, there is one that creates value. Choose that. 
 
 There are 2 journeys that you can take:
 
 1. Problem Solver path
-2. Problem See-er Path
+2. Journey Till Now
+
+   Level 1 is about building consciousness at the Individual level. That makes that bet that individual performance can be unleashed.   
+
+
+   Level 2 onwards, that bet is not to be taken. Instead only see things from a system lens. The only bet that is accessible is that a group’s output can be affected.  
+  
+   The individual is no longer personally relevant.    
+
+
+   This is a paradigm shift.
+
+3. Problem See-er Path
+
+We don't recruit outside resources for Problem See-er path.
 
 #### 
 

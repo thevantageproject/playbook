@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learning comes from observing data, not opinions. Opinions are ego's crutches,
-  not action's ammunition.
+  Learning comes from observing data, not building opinions. Opinions are ego's
+  crutches, not action's ammunition.
 ---
 
 # Daily Logs
@@ -10,12 +10,12 @@ description: >-
 > -Samuel Johnson
 
   
-Answer the following questions everyday: 
+Answer the following questions every day: 
 
 1. What did you accomplish today?
 2. What do you want to accomplish tomorrow?
 
-The answers will in turn help you build a lens into your reality, over time.. 
+The answers will, in turn, help you build a lens into your reality, over time. 
 
 This is the easy way to build self-accountability and growth.
 
