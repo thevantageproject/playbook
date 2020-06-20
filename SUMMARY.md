@@ -50,12 +50,14 @@
 
 * [Purpose Driven Action](executing-at-tvp-1/purpose-driven-action.md)
 * [Output as a Process](executing-at-tvp-1/output-as-a-process.md)
-* [Critical Constraint](executing-at-tvp-1/lean.md)
-* [Behaviour-Driven Development](executing-at-tvp-1/behaviour-driven-development.md)
-* [The real Why](executing-at-tvp-1/the-real-why.md)
+* [Critical Path](executing-at-tvp-1/lean.md)
+* [The Real Why](executing-at-tvp-1/the-real-why.md)
 
 ## Leaving TVP <a id="leaving-tvp-1"></a>
 
 * [Celebrating Goodbyes](leaving-tvp-1/leaving-tvp.md)
+
+---
+
 * [Changelog](https://github.com/thevantageproject/playbook/releases)
 

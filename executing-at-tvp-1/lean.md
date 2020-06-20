@@ -1,20 +1,20 @@
-# Critical Constraint
+# Critical Path
 
 ### The Rate Limiting Step
 
-In the car assembly line, the maximum rate of production is = the lowest common rate of the all components. ONLY the lowest common rate.
+In the car assembly line, the maximum rate of production is = the lowest common rate of all components production. ONLY the lowest common rate of production.
 
-Hence, the input car part that is the slowest \(most lagging\) is what the final assembly out is going to be. All focus must always be to increase rate of production only that step.
+Hence, the input car part that is the slowest \(most lagging\) is the one in control of the production rate. Only a change here, will impact the output.
 
 In chemistry, there exists a similar concept: Rate Determining Step.
 
 ### Solve only 1 problem, the critical problem; at a time
 
-See activity in terms of speed. Find the critical constraint that is reducing rate of progress. 
+See progress in terms of speed. Find the critical constraint that is reducing the rate of progress. 
 
-Only solve that, until it isn't the critical constraint anymore. Then move to the new one.
+Only solve that, until it isn't the critical constraint anymore. Then move to the new critical constraint.
 
 ### Critical path is the shortest path
 
-A string of critical problems solved leading to output is the critical path. It is the most efficient. 
+A string of critical problems solved, leading to the outcome is the critical path. This is the holy grail of productivity. 
 

@@ -14,38 +14,34 @@ We are taught to start writing what we know, instead of observing the validity o
 
 ### Purpose-First   __
 
-When starting to execute, take a pause. Start with a visual of what is that you want to occur. Then, backpropagate to visualizing the set of activities that will reckon 
+When starting to execute, take a pause. Start with a visual of what is that you want to occur. Then, backpropagate to visualizing the set of activities that will reckon its occurrence certain.
 
 Let that view be persistent during all that you do henceforth, until output is achieved. 
 
 In this state, activity isn't the destination in itself, but a mere run-time requirement.
 
-### Solving a problem
+### 
 
-> Start with a visual of what is that you want to occur.
+### Not all Purposes are equal
 
-What you want to occur, is a User Problem being solved. From this point on, you empower the user to do, something they wanted to do before but wasn't able to. Feel the responsibility. And let that be your guiding light.
+At any given time, a team is optimizing for only 1 of the 4 variables, while keeping others:
 
- 
+1. **Speed** Time
+2. **Cost** Time + Re-do.
+3. **Quality** Output
+4. **Control** Predictability ****
 
-### Process Output to Business Outcome
+Often the teams will be going through them in the same order.
 
-{% hint style="info" %}
-This section is specifically for Problem See-er path.
-{% endhint %}
 
-Not all problems are equal. The problem a Problem See-er solves is Business Growth. 
 
-You can't push growth; you can only remove rate-limiting bottlenecks to.growth. Hence, identifying the right hurdles to unblock is the critical constraint.
+### Do less to do more 
 
-Here are the 4 major categories:
+You can't push growth; you can only remove rate-limiting bottlenecks to growth. 
 
-1. **Speed** Time to Output
-2. **Cost** Speed + Effort of iterations/re-doings.
-3. **Quality** Value of output
-4. **Control** Configutability of output
+This goes for individual growth too. You can't change a behavior. You can only change the underlying belief that causes it and then a behavioral change is its mere outcome.
 
-Each problem when solved is going to impact one of these areas. Focus on the one which has the most value unlocking potential. Measure value in direct $ terms.
+Similarily for a team, seeing the better shared common view is the way to create any transformation.
 
-You may find that the most efficient strategy is to attempt them in the same order.
+Our beliefs are our only constraints.
 
