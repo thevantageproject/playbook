@@ -15,6 +15,7 @@
 * [Joining Contract](starting-at-tvp-1/joining-contract.md)
 * [A-Player Attributes](starting-at-tvp-1/a-player.md)
 * [Short-Term Hires](starting-at-tvp-1/short-term-hires.md)
+* [Guest Co-passengers](starting-at-tvp-1/guest-co-passengers.md)
 
 ## Failing at TVP
 
