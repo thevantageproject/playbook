@@ -33,14 +33,16 @@ eg. The site performance is now much faster ❌
 The site loading speed is now under 9 seconds for complete load ✅ 
 
 Eliminate weasel words and affirmation biases:  
-eg. I see market moving towards staking ❌   
+eg. I see the market moving towards staking ❌   
 I see that 30% of the current market would need staking services ✅ 
 
-Source: [How to write like an Amazonian](https://twitter.com/nipunmehra/status/1154590521345490945?lang=en)  
+Source: [_How to write like an Amazonian_](https://twitter.com/nipunmehra/status/1154590521345490945?lang=en)  
   
 ****  
-Recommended read: [The Pyramid Principle - Lessons from McKinsey](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
+Recommended read: 
 
+1. [The Pyramid Principle - Lessons from McKinsey](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
+2. 
 ###  Easy Hacks
 
 1. Think before you speak

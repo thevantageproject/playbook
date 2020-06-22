@@ -34,5 +34,10 @@ The ability to exist in the moment, without the baggage of the past or the futur
 
 ### 
 
-Drop the ego and salvate with service.
+Drop the ego and salvate with service.  
+
+
+> "Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion"  -Sam Altman
+
+Recommended read: [_How to be Successful \| Sam Altman_](https://blog.samaltman.com/how-to-be-successful)\_\_
 

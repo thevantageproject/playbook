@@ -34,6 +34,7 @@
 * [Silent Meetings](operating-at-tvp-1/silent-meetings.md)
 * [Effective Communication](operating-at-tvp-1/equanimous-communication.md)
 * [Work Schedule](operating-at-tvp-1/work-schedule.md)
+* [Taking Time off](operating-at-tvp-1/taking-time-off.md)
 * [Getting Paid](operating-at-tvp-1/getting-paid.md)
 * [Jarvis](https://www.thevantageproject.com/jarvis/)
 * [Upgrading Playbook](operating-at-tvp-1/upgrading-playbook.md)
