@@ -44,7 +44,10 @@
 * [Basics of Ascending](evolving-at-tvp/ascend-paths.md)
 * [Problem Solver Path](evolving-at-tvp/problem-solver-ascend-path.md)
 * [Problem See-er Path](evolving-at-tvp/problem-see-er-ascend-path/README.md)
-  * [Tools](evolving-at-tvp/problem-see-er-ascend-path/tools.md)
+  * [Principles](evolving-at-tvp/problem-see-er-ascend-path/tools.md)
+  * [Specific Knowledge](evolving-at-tvp/problem-see-er-ascend-path/specific-knowledge.md)
+  * [Path](evolving-at-tvp/problem-see-er-ascend-path/path.md)
+  * [Attributes](evolving-at-tvp/problem-see-er-ascend-path/attributes.md)
 * [Organisational Maturity Path](evolving-at-tvp/organisational-maturity-path.md)
 * [Team Psychology Path](evolving-at-tvp/team-assessment-meter.md)
 

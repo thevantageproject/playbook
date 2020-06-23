@@ -27,7 +27,11 @@ We will treat you as a self-responsible adult, even in times when you may not ch
 
 ### Growth
 
-Survival is not the default, extinction is. What stops decays. Always keep improving.  
+Survival is not the default, extinction is. What stops decays. Always keep improving.
+
+Thinking != Learning
+
+Thinking + Doing = Learning   
   
 Be ready for a high-paced journey that will keep you on your toes.
 

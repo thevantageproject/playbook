@@ -1,6 +1,11 @@
-# Tools
+# Principles
 
-Observe.
+"If we can really understand the problem, the answer will come out of it, because the answer is not separate from the problem."
+
+-Jiddu Krishnamurti  
+
+
+### Observe
 
 This is a path of Equanimity. Building the muscle to Observe what is.  
 Not think. Not Know. Observe.  
@@ -12,10 +17,9 @@ Response is change. Reaction is just more of the same.
 Problem See-er path is about building the ability to affect change.   
 
 
-  
-Leading. 
+### Lead 
 
-The popular idea of ‘Leadership’ centered around a heroic ‘leader’ needs to be avoided.  
+The popular idea of ‘Leadership’ centered around a heroic ‘leader’ is to be avoided.  
 
 
 The lens to use is the idea of ‘Leading Indicators’ in different fields. 
@@ -29,18 +33,13 @@ Here is a simple list from google search for leading indicators. Use them to get
 5. [Investing](https://www.investopedia.com/terms/l/leadingindicator.asp)
 6. [Business Management](https://kpilibrary.com/topics/lagging-and-leading-indicators)
 
-Leadership is about becoming the ‘leading indicator’ and using that influence to impact change. Nothing more.
-
-  
-Leadership in its popular use has become an identity and a status game. 
-
-Hence, Leading is the idea we will continue with.  
-
+Leadership is about becoming the ‘leading indicator’ and using that influence to impact change. Nothing more.  
+Leadership is a status game. Leading is a wealth game.
 
 You have to be today, where the system is going to be tomorrow.  
 
 
-Read more?
+
 
 //todo confirm its appropriateness: [A New Style of Leadership Is Emerging - The Startup](https://medium.com/swlh/a-new-style-of-leadership-is-emerging-29e4e2b021bf)  
   
@@ -51,7 +50,7 @@ Read more?
   
 
 
-Team is the basic unit of the organization.
+### Team is the basic unit of the organization.
 
 Team is a group of individuals working together to produce a complete output. 
 

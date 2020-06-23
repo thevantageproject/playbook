@@ -14,6 +14,8 @@ _Leaning Into our Strengths: The Editor/Operator Experiment \| Buffer_
 >
 > In the past, many of us at Buffer have often tried to work on our own weaknesses and cover both of these mindsets individually. **//this is what happs traditionally**
 
+
+
 ### Ascend Paths
 
 |  | Solver | See-er |
