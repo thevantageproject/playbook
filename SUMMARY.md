@@ -56,7 +56,8 @@
 * [Purpose Driven Action](executing-at-tvp-1/purpose-driven-action.md)
 * [Output as a Process](executing-at-tvp-1/output-as-a-process.md)
 * [Critical Path](executing-at-tvp-1/lean.md)
-* [The Real Why](executing-at-tvp-1/the-real-why.md)
+* [Seeing the Real 'Why'](executing-at-tvp-1/the-real-why.md)
+* [Understanding Value](executing-at-tvp-1/understanding-value.md)
 
 ## Leaving TVP <a id="leaving-tvp-1"></a>
 

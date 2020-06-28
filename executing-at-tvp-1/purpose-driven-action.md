@@ -10,7 +10,7 @@ It's difficult to see the difference in the middle of an activity. The problem l
 
 Reference [_Start with Answer first \| Effective Communication_](https://playbook.thevantageproject.com/operating-at-tvp/effective-communication)_._
 
-We are taught to start writing what we know, instead of observing the validity of the question.
+We are conditioned to start with what we know instead of what is needed to be done for the outcome to occur, irrespective of my current pool of knowledge.
 
 ### Purpose-First   __
 
@@ -33,7 +33,29 @@ At any given time, a team is optimizing for only 1 of the 4 variables, while kee
 
 Often the teams will be going through them in the same order.
 
+scribbles: 
 
+Understanding done. 
+
+You have to be done, but you can cut scope. 
+
+  
+speed is the default variable to optimize for.  
+  
+When planning execute in fixed time, but variable scope. 
+
+'what version of this can we ship in 2 weeks'
+
+There isn't a checklist of things to be done aka specs.  
+  
+Instead a concept
+
+1. here is the problem
+2. here is what matters about it
+3. here is what we understand why we are doing it //business purpose
+4. geenral outline of how we think this is going to work 
+
+ 
 
 ### Do less to do more 
 
@@ -44,4 +66,8 @@ This goes for individual growth too. You can't change a behavior. You can only c
 Similarily for a team, seeing the better shared common view is the way to create any transformation.
 
 Our beliefs are our only constraints.
+
+
+
+
 

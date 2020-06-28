@@ -14,7 +14,7 @@ Be present in the moment, don't offer ego/identity in your place instead.
 
 A simple hack to achieve this is to view life in third person \(TPP\), instead of first person \(FPP\). Don’t make the game about what you want to do. Instead, make it about what is appropriate. Play to win the game, not make the avatar your identity. Fight for truth, not ego.
 
-Recommended watch: [How to Win by Daniel Gross \(14:50\)](https://youtu.be/LH1bewTg-P4?t=890) and [The Power of Mindfulness by Shauna Shapiro](https://www.youtube.com/watch?v=IeblJdB2-Vo)
+Recommended watch: [_How to Win by Daniel Gross \(14:50\)_](https://youtu.be/LH1bewTg-P4?t=890) and [_The Power of Mindfulness by Shauna Shapiro_](https://www.youtube.com/watch?v=IeblJdB2-Vo)\_\_
 
 ### 2. Ownership
 

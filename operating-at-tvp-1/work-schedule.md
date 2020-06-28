@@ -17,6 +17,8 @@ Recommended read: [_Maker's Schedule_](http://www.paulgraham.com/makersschedule.
 Working remote != work alone
 
 Block 6PM -7PM IST slot for your team. They can use your time to remove roadblocks. You can do the same when with them you need unblocking.   
-  
+
+
+[https://3.basecamp.com/4539827/buckets/17520073/messages/2766832976](https://3.basecamp.com/4539827/buckets/17520073/messages/2766832976)  
 
 

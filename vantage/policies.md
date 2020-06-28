@@ -6,34 +6,50 @@ description: >-
 
 # Limits of Engagement
 
-### Equal Opportunity
+### Happiness
 
-We are a meritocratic culture. Your place here is based on the value that you add, not where you come from or your current identity.
+Unhappy people create mediocre value, if any at all. Being able to do meaningful work that makes you happy, is an under-rated career growth-hack. 
 
-This also means no special privileges/considerations. We see you for you; sans the politics. 
+Be here only when we are your happy spot. Take self-responsibility.
+
+### 
 
 ### Consent
 
-No one owes you anything. Engage with respect and empathy.   
-Respect is an outcome of Consent. Consent needs to be explicit. 
+No one owes you anything. The idea that others should act a certain way because you told them to, is violence.   
+Use consent instead. Ask if they'd do what you'd like them to do. All consent is explicit. 
+
+### 
 
 ### Truth
 
-You must not lie, hide or conceal truth anytime. That includes honesty towards yourself and towards others. Irrespective of however hard the truth may be.
+Lie starts with intent. A concealed truth is also a lie. Choose to be absolutuly honest towards yourself and towards others. Irrespective of however hard the truth may be.
+
+### 
 
 ### Non-Violence
 
-You may not bring your agitations when dealing with others. What offends you is your responsibility; address it.
+You may not bring your agitations when dealing with others. What offends you is your responsibility; address it within.
+
+### 
+
+### Merit-First
+
+Your place here is based on the value that you add, not where you come from or your current identity. This means no entitlement to special privileges/considerations. We see you for you; sans the politics. 
+
+Uphold yourself to this standard.  
+   
+
 
 ### Privacy
 
-We embrace a culture of openess, with consent.   
+We embrace a culture of openess within, with consent.   
   
-Whenever sharing information with the outside world, ask for consent from a Partner before sharing any:  
+Ask for consent from a partner before sharing any:  
 1. Financial  
 2. Strategic  
 3. Personal  
-information of the company or its individuals.  
+information about the company or its individuals with the outside world.  
   
-You will be assigned a company email account. Use that for creating all other work related accounts. No personal accounts to ever be used for work purposes. All such accounts and other work related properties created during employment are company property and not private.
+Use the work email for creating all other work-related accounts. All such accounts and other work-related properties created during employment are company property and not private.
 
