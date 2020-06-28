@@ -2,66 +2,66 @@
 
 * [Hello World](README.md)
 
-## Principles <a id="vantage"></a>
+## Principles <a id="foundation"></a>
 
-* [Understanding Truth](vantage/understanding-truth.md)
-* [Value System](vantage/value-system.md)
-* [Limits of Engagement](vantage/policies.md)
+* [Understanding Truth](foundation/understanding-truth.md)
+* [Value System](foundation/value-system.md)
+* [Limits of Engagement](foundation/limits-of-engagement.md)
 
-## Starting at TVP <a id="starting-at-tvp-1"></a>
+## Starting at TVP <a id="starting"></a>
 
-* [Applying](starting-at-tvp-1/applying-to-tvp.md)
-* [Compensation Principle](starting-at-tvp-1/compensation-principle.md)
-* [Joining Contract](starting-at-tvp-1/joining-contract.md)
-* [A-Player Attributes](starting-at-tvp-1/a-player.md)
-* [Short-Term Hires](starting-at-tvp-1/short-term-hires.md)
-* [Guest Co-passengers](starting-at-tvp-1/guest-co-passengers.md)
+* [Applying](starting/applying.md)
+* [Compensation Principle](starting/compensation-principle.md)
+* [Joining Contract](starting/joining-contract.md)
+* [A-Player Attributes](starting/a-player.md)
+* [Short-Term Hires](starting/short-term-hires.md)
+* [Guest Co-passengers](starting/guest-co-passengers.md)
 
-## Failing at TVP
+## Failing at TVP <a id="failing"></a>
 
-* [Realignment Solitude](failing-at-tvp/realignment-solitude.md)
+* [Realignment Solitude](failing/realignment-solitude.md)
 
-## Succeeding at TVP
+## Succeeding at TVP <a id="succeeding"></a>
 
-* [DKRs and Goal Setting](succeeding-at-tvp/okrs-and-goal-setting.md)
-* [Feedback Loops](succeeding-at-tvp/feedback-tracker.md)
-* [ETA Culture](succeeding-at-tvp/eta-culture.md)
-* [Daily Logs](succeeding-at-tvp/daily-logs.md)
-* [Weekend Syncups](succeeding-at-tvp/weekend-syncup.md)
+* [DKRs and Goal Setting](succeeding/dkrs-and-goal-setting.md)
+* [Feedback Loops](succeeding/feedback-loops.md)
+* [ETA Culture](succeeding/eta-culture.md)
+* [Daily Logs](succeeding/daily-logs.md)
+* [Weekend Syncups](succeeding/weekend-syncup.md)
 
-## Operating at TVP <a id="operating-at-tvp-1"></a>
+## Operating at TVP <a id="operating"></a>
 
-* [Silent Meetings](operating-at-tvp-1/silent-meetings.md)
-* [Effective Communication](operating-at-tvp-1/equanimous-communication.md)
-* [Work Schedule](operating-at-tvp-1/work-schedule.md)
-* [Taking Time off](operating-at-tvp-1/taking-time-off.md)
-* [Getting Paid](operating-at-tvp-1/getting-paid.md)
+* [Silent Meetings](operating/silent-meetings.md)
+* [Effective Communication](operating/effective-communication.md)
+* [Work Schedule](operating/work-schedule.md)
+* [Taking Time off](operating/taking-time-off.md)
+* [Getting Paid](operating/getting-paid.md)
 * [Jarvis](https://www.thevantageproject.com/jarvis/)
-* [Upgrading Playbook](operating-at-tvp-1/upgrading-playbook.md)
+* [Upgrading Playbook](operating/upgrading-playbook.md)
 
-## Evolving at TVP
+## Evolving at TVP <a id="evolving"></a>
 
-* [Basics of Ascending](evolving-at-tvp/ascend-paths.md)
-* [Problem Solver Path](evolving-at-tvp/problem-solver-ascend-path.md)
-* [Problem See-er Path](evolving-at-tvp/problem-see-er-ascend-path/README.md)
-  * [Principles](evolving-at-tvp/problem-see-er-ascend-path/tools.md)
-  * [Specific Knowledge](evolving-at-tvp/problem-see-er-ascend-path/specific-knowledge.md)
-  * [Path](evolving-at-tvp/problem-see-er-ascend-path/path.md)
-  * [Attributes](evolving-at-tvp/problem-see-er-ascend-path/attributes.md)
-* [Organisational Maturity Path](evolving-at-tvp/organisational-maturity-path.md)
-* [Team Psychology Path](evolving-at-tvp/team-assessment-meter.md)
+* [Basics of Ascending](evolving/basics-of-ascend-paths.md)
+* [Problem Solver Path](evolving/problem-solver-ascend-path.md)
+* [Problem See-er Path](evolving/problem-see-er-ascend-path/README.md)
+  * [Principles](evolving/problem-see-er-ascend-path/tools.md)
+  * [Specific Knowledge](evolving/problem-see-er-ascend-path/specific-knowledge.md)
+  * [Path](evolving/problem-see-er-ascend-path/path.md)
+  * [Attributes](evolving/problem-see-er-ascend-path/attributes.md)
+* [Organisational Maturity Path](evolving/organisational-maturity-path.md)
+* [Team Maturity Path](evolving/team-maturity-path.md)
 
-## Executing at TVP <a id="executing-at-tvp-1"></a>
+## Executing at TVP <a id="executing"></a>
 
-* [Purpose Driven Action](executing-at-tvp-1/purpose-driven-action.md)
-* [Output as a Process](executing-at-tvp-1/output-as-a-process.md)
-* [Critical Path](executing-at-tvp-1/lean.md)
-* [Seeing the Real 'Why'](executing-at-tvp-1/the-real-why.md)
-* [Understanding Value](executing-at-tvp-1/understanding-value.md)
+* [Purpose Driven Action](executing/purpose-driven-action.md)
+* [Output as a Process](executing/output-as-a-process.md)
+* [Critical Constraint](executing/critical-constraint.md)
+* [Seeing the Real 'Why'](executing/the-real-why.md)
+* [Understanding Value](executing/understanding-value.md)
 
-## Leaving TVP <a id="leaving-tvp-1"></a>
+## Leaving TVP <a id="leaving"></a>
 
-* [Celebrating Goodbyes](leaving-tvp-1/leaving-tvp.md)
+* [Celebrating Goodbyes](leaving/celebrating-goodbyes.md)
 
 ---
 
