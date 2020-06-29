@@ -8,9 +8,11 @@ We spend significant energy to scout, develop, and cut to ensure champions in ev
 
 We are a remote-first team. We expect self-responsibility, ownership mindset, and mindfulness in the individuals we invite.
 
-We call them A\(utonomous\)-players. Read more: [A-player Attributes](https://playbook.thevantageproject.com/starting/a-player)_._
+We call them A\(utonomous\)-players. Read more:
 
-### 
+{% page-ref page="a-player.md" %}
+
+
 
 ### Application Process
 
