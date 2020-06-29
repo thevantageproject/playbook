@@ -1,4 +1,4 @@
-# Joining Contract
+# Joining
 
 We seek to enable a culture of individual freedom, self-responsibility and growth. This approach is contrarian to Indian labor law.
 

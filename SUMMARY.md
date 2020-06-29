@@ -11,9 +11,9 @@
 ## Starting at TVP <a id="starting"></a>
 
 * [Applying](starting/applying.md)
-* [Compensation Principle](starting/compensation-principle.md)
-* [Joining Contract](starting/joining-contract.md)
 * [A-Player Attributes](starting/a-player.md)
+* [Compensation Principle](starting/compensation-principle.md)
+* [Joining](starting/joining-contract.md)
 * [Short-Term Hires](starting/short-term-hires.md)
 * [Guest Co-passengers](starting/guest-co-passengers.md)
 
