@@ -19,7 +19,7 @@ Here is the contract we use: [CONTRACT TEMPLATE](https://docs.google.com/documen
 
 * 11 month [194J contracts](https://cleartax.in/s/section-194j/) that are set on auto-renew.
 * Language simple enough to be human-readable.
-* Only the clauses that are needed to document commitment on _\_\[\_Limits of Engagement._\]\([http://playbook.thevantageproject.com/principles/limits\)\_\_](http://playbook.thevantageproject.com/principles/limits%29__)
+* Only the clauses that are needed to document commitment on _\_\[\_Limits of Engagement._\]\(\[_[http://playbook.thevantageproject.com/principles/limits\)\](http://playbook.thevantageproject.com/principles/limits%29\)\_\]\([http://playbook.thevantageproject.com/principles/limits%29\_\_](http://playbook.thevantageproject.com/principles/limits%29__)\)
 
 ## Taxes:
 
