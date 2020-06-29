@@ -1,11 +1,8 @@
 # Attributes
 
+## **Attributes**
 
-
-#### **Attributes**
-
-**Attributes that will help you impact:**  
-
+**Attributes that will help you impact:**
 
 1. **Vantage**
    1. **Putting in the reps**
@@ -26,19 +23,15 @@
 
 **Empathy \(vantage of the system\)**
 
-**See what they are, not what they it is.** 
+**See what they are, not what they it is.**
 
-**Building things for others to use is an act of empathy. Every decision made about how a thing is built and how it should be used comes from the worldview of the maker. How well they can see things through the user’s eyes determines the value of their work. No one person can see the world through another’s eyes. It’s all approximation and guesswork. Thus the only way for us to broaden our understanding of our users, to see things the way they do, is through hiring people with as many diverse experiences and backgrounds as we can.**  
-
+**Building things for others to use is an act of empathy. Every decision made about how a thing is built and how it should be used comes from the worldview of the maker. How well they can see things through the user’s eyes determines the value of their work. No one person can see the world through another’s eyes. It’s all approximation and guesswork. Thus the only way for us to broaden our understanding of our users, to see things the way they do, is through hiring people with as many diverse experiences and backgrounds as we can.**
 
 **Diligence**
 
 **Business is about watching the details.**
 
-**We know that the success of our product will likely not come from unpredictable lightning strikes but from grinding hard rocks against other hard rocks day after day. To build a product that works well and is magical comes out of effort that looks very non-magical. It is easy and sometimes tempting to say “good enough” but after this is where the best work happens and what makes Slack special. This is also where your best work happens.**  
-  
-  
-
+**We know that the success of our product will likely not come from unpredictable lightning strikes but from grinding hard rocks against other hard rocks day after day. To build a product that works well and is magical comes out of effort that looks very non-magical. It is easy and sometimes tempting to say “good enough” but after this is where the best work happens and what makes Slack special. This is also where your best work happens.**
 
 **What makes a A-leader:**
 

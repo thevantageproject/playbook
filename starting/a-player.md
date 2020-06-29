@@ -36,8 +36,8 @@ Noun vs Verb. The latter is liberation. The former is identity, and limiting.
 
 When faced with a problem, are you able to break it down into pieces that are familiar, use them to discover an opportunity and then built them back up into the solution.
 
-aka Analytical state of mind.   
-  
+aka Analytical state of mind.
+
 Watch yourself attempt these questions:
 
 * How many haircuts do you think happen in India every year?
@@ -50,8 +50,7 @@ Source: Google interview questions
 
 Remember, the ask is to put in the reps, not hours. The latter is effort. The latter is insufficient. Effort is motion, may or may not be progress.
 
-Heavily inspired from [How to Succeed at Lambda School \| Austen Allred](https://www.youtube.com/watch?v=vVogzog7HDg).  
-****
+Heavily inspired from [How to Succeed at Lambda School \| Austen Allred](https://www.youtube.com/watch?v=vVogzog7HDg).
 
-Recommended read: ****[https://signalvnoise.com/posts/1430-hire-managers-of-one](https://signalvnoise.com/posts/1430-hire-managers-of-one)
+Recommended read: _\*\*_[https://signalvnoise.com/posts/1430-hire-managers-of-one](https://signalvnoise.com/posts/1430-hire-managers-of-one)
 

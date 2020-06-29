@@ -7,14 +7,12 @@ description: Long term games with Long term players.
 It is certain that there will be moments where work isn't giving you the same kick as it used to.  
 Motivation will drop and so will Productivity.
 
-This moment needs an affordance to discover **Re-alignment.**   
+This moment needs an affordance to discover **Re-alignment.**  
 Self-discovery occurs in **Solitude**.
 
-This routine creates breathing space for them to be possible.  
-  
+This routine creates breathing space for them to be possible.
 
-
-### How does it work?
+## How does it work?
 
 Realignment solitude is a period of upto 20 days with the following stages:
 
@@ -24,15 +22,14 @@ Realignment solitude is a period of upto 20 days with the following stages:
 3. **Re-alignment** 
    1. **Performing upgrades to the side chain.** \| upto 15 days  
 
+> Do what you like, until you like to 'do'.
 
-      > Do what you like, until you like to 'do'.
+```text
+  Choose a role that you you will motivated to do. Get started and build momentum.  
+  The goal is to fall in love with winning again.  
 
-      Choose a role that you you will motivated to do. Get started and build momentum.  
-      The goal is to fall in love with winning again.  
-  
-      The role may be one that already exists within the system, or maybe entirely new and unrelated to our current vector.  
+  The role may be one that already exists within the system, or maybe entirely new and unrelated to our current vector.  
+```
 
-   2. **Merging back on the main chain \|** additional 5 days ****Now that we have you back, we'll offer incremental responsibilities until you are your role is important to the team again.  ****Sometimes, merging may not be the right thing to do. In that scenario, '[_Civilized Goodbyes_](https://playbook.thevantageproject.com/leaving-tvp/civilized-goodbyes)' kicks in. ****
-
-
+1. **Merging back on the main chain \|** additional 5 days **Now that we have you back, we'll offer incremental responsibilities until you are your role is important to the team again.**  Sometimes, merging may not be the right thing to do. In that scenario, '[_Civilized Goodbyes_](https://playbook.thevantageproject.com/leaving-tvp/civilized-goodbyes)' kicks in. _\*\*_
 

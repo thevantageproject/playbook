@@ -4,18 +4,18 @@ description: Desires. Not Objectives.
 
 # DKRs and Goal Setting
 
-### Desires 
+## Desires
 
-What would you like to achieve this month. Let your ambition write and observation edit.   
+What would you like to achieve this month. Let your ambition write and observation edit.  
 These is a statement of intent and subjective.
 
-### Key results
+## Key results
 
 What outcomes will need to occur for that output to happen.  
 Refer to [_SMART_](https://youtu.be/U4IU-y9-J8Q?t=19)  
-__
+\_\_
 
-#### Example DKR for level 2:
+### Example DKR for level 2:
 
 **Desire:** Mine all revenue opportunities within Celo from this cycle
 
@@ -25,9 +25,7 @@ __
 2. 3 proposals submitted by 14th.
 3. Revenue of 100k+ by the end of the month.
 
-
-
-### Writing DKRs
+## Writing DKRs
 
 Desires get refreshed at the following frequency:
 
@@ -37,11 +35,5 @@ Desires get refreshed at the following frequency:
 
 Key Results are refreshed every month.
 
-This activity is done on one the first Saturday of the month.  
-
-
-  
-
-
-
+This activity is done on one the first Saturday of the month.
 
