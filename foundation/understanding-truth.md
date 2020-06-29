@@ -6,7 +6,7 @@ description: >-
 
 # Understanding Truth
 
-## Truth
+### Truth
 
 Your peace cannot be acquired through external inquiry, it is already within.
 
@@ -19,7 +19,9 @@ Only free men create value. Ego is your chains, and truth your freedom.
 Ego is \(attachment to\) the identity that one thinks they are.  
 In reality, there is only flow.
 
-## Integrity
+### 
+
+### Integrity
 
 Integrity != Honesty
 
@@ -31,26 +33,28 @@ There is no global objective truth. There are only subjective realities.
 Anything that isn't self-discovered, is someone else's truth. It may or may not be yours.
 
 **Truth**  
-Absolute honesty practiced within. Mind, intent and action.
-
-\*\*\*\*
+Absolute honesty practiced with oneself and others, in every moment and in mind, intent, and action.
 
 **In the moment**  
 The past exists only in your memory, the future in imagination. Only this moment is the reality.
 
-The ability to exist in the moment, without the baggage of the past or the future; is a superpower. Now, you can 'choose' and be whoever you want to be, including being limitless.
+
 
 Drop the ego and salvate with service.
 
-## Truth-Seeking
+### 
 
-> "Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion" -Sam Altman
+### Truth-Seeking
 
-Observe your life in third person, and why you do what you do. If you are merely executing learned behaviours, where are you alive?
+> "Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion"  
+> [-Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 
-_\*\*_To be able to observe the reality as is, and not as you want it to be; is a superpower.
+Observe your life in third person. Observe why it does what it does. See it for what it is, not what you want it to be.  
+If you are merely executing learned behaviors, is there really a 'you'?
 
-With that perspective, everything external stops being good or bad; it just is. A mere data point. And that frees your neurons to focus on appropriate action, instead of living life triggered.
+This lens of detached observation when applied to the world, is a superpower.  
+Existing in reality, saves time and neurons, that can be used for appropriate action instead.
 
-Recommended read: [_How to be Successful \| Sam Altman_](https://blog.samaltman.com/how-to-be-successful)\_\_
+  
+Recommended read: [The Path to Peace Is Truth \| Naval](https://nav.al/truth)
 
