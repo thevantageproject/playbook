@@ -19,21 +19,19 @@ Recommended read: [Seek wealth, not money or status. -@naval](https://twitter.co
 > “Freedom and nature, Smith concludes, are a surer guide to the creation of a harmonious, functioning society than the supposed reason of philosophers and visionaries.” -Adam Smith
 
 We strive towards Evolution, that is the true order of life.   
-Our default stance is to reward the fittest, thus incentivizing its prevalence. And making it profitable to inculcate that habit. 
+Our default stance is to reward the fittest, thus incentivizing its existence. And making it profitable to inculcate that habit. 
 
 And like evolution, we are an experiment in-progress.
 
 
 
-### If you are new here
+### If you are new
 
-Start here:
+Start with:
 
-1. What we look for in A-players
-2. How you can get invited
-3. How you can create wealth here
-
-
-
+1. Why do we value [truth seeking](https://playbook.thevantageproject.com/foundation/understanding-truth)
+2. What we look for with [A-players](https://playbook.thevantageproject.com/starting/applying)
+3. How you can get [invited](https://playbook.thevantageproject.com/starting/applying) to join
+4. How individuals [create wealth](https://playbook.thevantageproject.com/evolving/basics-of-ascending) for themselves here
 
 
