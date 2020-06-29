@@ -49,7 +49,7 @@
   * [Path](evolving-at-tvp/problem-see-er-ascend-path/path.md)
   * [Attributes](evolving-at-tvp/problem-see-er-ascend-path/attributes.md)
 * [Organisational Maturity Path](evolving-at-tvp/organisational-maturity-path.md)
-* [Team Psychology Path](evolving-at-tvp/team-assessment-meter.md)
+* [Team Maturity Path](evolving-at-tvp/team-assessment-meter.md)
 
 ## Executing at TVP <a id="executing-at-tvp-1"></a>
 
