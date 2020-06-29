@@ -1,10 +1,14 @@
+---
+description: 'For individuals that are a good fit, but are not here for the long-term game.'
+---
+
 # Short-Term Hires
 
-For individuals that are a good fit, but are not here for the long-term game. Sometimes, we'll recruit short-term hires to plug in immediate gaps in the team.
+Sometimes, we'll recruit short-term hires to plug in immediate gaps in the team.
 
 That does not mean that their engagement has to have a short expiry. The 'short-term' merely refers to their currently communicated desire.
 
-However, they tend to only be used if and when a need arises and on a per project basis.
+However, they tend to only be used if and when a need arises and on a per-project basis.
 
 Short-term engagement work the same as long-term engagements except:
 
