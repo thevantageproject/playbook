@@ -13,7 +13,7 @@
 * [Applying](starting/applying.md)
 * [A-Player Attributes](starting/a-player.md)
 * [Compensation Principle](starting/compensation-principle.md)
-* [Joining](starting/joining-contract.md)
+* [Joining](starting/joining.md)
 * [Short-Term Hires](starting/short-term-hires.md)
 * [Guest Co-passengers](starting/guest-co-passengers.md)
 
