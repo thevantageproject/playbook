@@ -11,7 +11,7 @@ description: >-
 We encourage you to take breaks, with peace. That requires psychological safety. Here is our attempt at enabling it.
 
 1. **Sundays are a mandatory off** Work can wait 1 day. Don’t burn out. Take a break, stroll, and spend time on yourself.    Productivity requires discipline, not heroism.  
-2. **Mandatory 50 days off every year**  Life will throw uncertainties. Account for it. Do not worry about being left behind. It'll be fine.  50 days off every year, accrued pro-rata every month; after the first 45 days. All days off above this threshold are likely to cost lost opportunities.
+2. **Mandatory 52 days off every year**  Life will throw uncertainties. Account for it. Do not worry about being left behind. It'll be fine.  52 days off every year, accrued pro-rata every month; after the first 45 days. All days off above this threshold are likely to cost lost opportunities.
 
 ### 
 
