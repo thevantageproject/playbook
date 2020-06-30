@@ -2,7 +2,7 @@
 
 ### All Motion is not Progress.
 
-Syncup up weekly with within each project team to maintain alignment between each individual's path and the project goal.
+Syncup up weekly with within each project team to maintain alignment between each individual's next week's path and the project goal.
 
 Done asynchronously as a [silent meeting](http://playbook.thevantageproject.com/operating-at-tvp/silent-meetings) starting at 5pm IST every Friday and concludes on Saturday 11am IST.
 
