@@ -8,7 +8,7 @@ Done asynchronously as a [silent meeting](http://playbook.thevantageproject.com/
 
 ### 
 
-### Template
+### Process \| [Template](https://docs.google.com/document/d/13i6v7RmvShs5swsbRmawXkOdXCZRGSos1ybKAdWMNrQ/edit)
 
 1. **What do you want to accomplish this coming week?**  Use [SMART](https://www.youtube.com/watch?v=U4IU-y9-J8Q&feature=youtu.be&t=19).   
 2. **Here is what you set as the goal for this week:**   

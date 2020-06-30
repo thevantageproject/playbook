@@ -1,3 +1,7 @@
+---
+description: May the best thought win. Not the one that is presented the loudest.
+---
+
 # Silent Meetings
 
 A typical meeting is someone speaking and everyone listening. Silent meetings are their inversion.
@@ -8,7 +12,7 @@ Silent Meetings are:
 2. Written
 3. Focussed on getting things done
 
-## How-To
+## Process \| [Template ](https://docs.google.com/document/d/1xQ7HPistlclpxSmEyAzej15a7DeXbHjYUZEjg_EtSDc/edit?via_commande=true)
 
 1. **Initiation**  
    A meeting doc is created with:
