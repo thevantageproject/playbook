@@ -24,7 +24,7 @@
 ## Succeeding at TVP <a id="succeeding"></a>
 
 * [DKRs and Goal Setting](succeeding/dkrs-and-goal-setting.md)
-* [Feedback Loops](succeeding/feedback-loops.md)
+* [Feedback Loop](succeeding/feedback-loops.md)
 * [ETA Culture](succeeding/eta-culture.md)
 * [Daily Logs](succeeding/daily-logs.md)
 * [Weekend Syncups](succeeding/weekend-syncup.md)
