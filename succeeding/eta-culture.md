@@ -1,7 +1,7 @@
 ---
 description: >-
-  Deadlines easily become an exercise in heroism. We nurture existence that is
-  rooted in reality, not announced bravado.
+  Deadlines easily become an exercise in heroism. We nurture an existence that
+  is rooted in observed reality, not announced bravado.
 ---
 
 # ETA Culture
@@ -10,5 +10,5 @@ description: >-
 When the addressed subject is an individual's identity, it is ego that responds.
 
 **ETA:** "By when do you think, _X_ will reach completion?"  
-When the individual is inconsequential to the question, there exists a possibility of true accuracy.
+When the individual is inconsequential to the question, there exists a possibility of accuracy.
 
