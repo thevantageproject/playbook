@@ -17,3 +17,7 @@ The invite also provides access to our community and the following themed slack 
 2. \#mastering-
 3. \#pulse-
 
+{% hint style="info" %}
+Currently, the 'Observing Value' path is being upgraded and is inaccessible.
+{% endhint %}
+
