@@ -23,6 +23,14 @@ We encourage you to experiment at your level and share your learnings to help ev
 2. **Owner's skin. Owner's call.** Ownership is a mindset, but it is also real material skin in the game. All equity holders are called Partners. And only they may impact a system-level change. 
 3. **Meritocracy. Not mobocracy.**  Transparency may look like democracy. It is not.  Democracy may look like freedom. It is not.  The goal is to empower individual drive. Not sacrifice it to consensus. In cases of dissonance; fork. And let evolution take its course. 
 
+### 
+
+### How to become a Partner
+
+{% page-ref page="../evolving/basics-of-ascending.md" %}
+
+
+
   
   
   
