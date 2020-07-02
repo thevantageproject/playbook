@@ -25,6 +25,8 @@ Here is what you may do:
 What this means is that we don't know how to produce the most value out of you, yet.   
 For personal growth, view the above status from a position of self-responsibility.
 
+Sometimes a role may not be scoped out properly, and hence the system needs to take a journey on its own time to arrive at the appropriate role. We apologize for the inconvenience and hope you give us a chance when we are likely to be a good fit in due course.
+
 1. **Leverage our trust in you**  
    Start looking for new opportunities. We have an extensive network of teams where our word is likely to hold value. Use us for access and leverage.
 
