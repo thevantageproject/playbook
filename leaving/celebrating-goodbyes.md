@@ -20,12 +20,17 @@ Here is what you may do:
 
 ### 
 
-### 2. You are not \(production\) ready yet
+### 2. We are not ready for you, yet. 
 
-Sometimes a role may demand higher productivity than where you are, at the moment. We are likely to be a good fit in due course. But are not, yet.
+What this means is that we don't know how to produce the most value out of you, yet.   
+For personal growth, view the above status from a position of self-responsibility.
 
-1. **Feel free to use us** Twitter and our blog is the best place to find our thoughts. Our thoughts are our primary leverage. 
-2. **Our Parting gift** An invite to be a [guest co-passenger](https://playbook.thevantageproject.com/starting/guest-co-passengers).  It's fun working together with you and we look forward to doing so in the future.
+1. **Leverage our trust in you**  
+   Start looking for new opportunities. We have an extensive network of teams where our word is likely to hold value. Use us for access and leverage.
+
+  
+
+2. **Our Parting gift** An invite to be a [guest co-passenger](https://playbook.thevantageproject.com/starting/guest-co-passengers).  It's fun working together and we look forward to doing so in the future.
 
 ### 
 
