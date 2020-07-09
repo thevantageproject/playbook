@@ -5,7 +5,7 @@
 ## Principles <a id="foundation"></a>
 
 * [Understanding Truth](foundation/understanding-truth.md)
-* [Value System](foundation/value-system.md)
+* [System Values](foundation/value-system.md)
 * [Limits of Engagement](foundation/limits-of-engagement.md)
 
 ## Starting at TVP <a id="starting"></a>

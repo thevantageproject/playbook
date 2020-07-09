@@ -2,7 +2,7 @@
 description: The principles we strive for. And the principles we look for.
 ---
 
-# Value System
+# System Values
 
 ### Trust
 
@@ -43,5 +43,7 @@ Be ready for a high-paced journey that will keep you on your toes.
 
 ### Audacious Grit
 
-There is no substitute for hard work. And there is no substitute for dreaming big. Your life can be starkly different 6 months down the line, irrespective of where you are at the moment. Make it inspiring. 
+Audacity in vision. Sincerity in execution.  
+  
+There is no substitute for hard work. And there is no substitute for dreaming big. Life can be starkly different 6 months from now, that what it is today. Let's make it large.
 
