@@ -37,9 +37,7 @@ Thinking != Learning
 
 Thinking + Doing = \(Possible\) Learning
 
-Be ready for a high-paced journey that will keep you on your toes.
-
-
+We offer a high-paced journey that will keep you on your toes.
 
 ### Audacious Grit
 
