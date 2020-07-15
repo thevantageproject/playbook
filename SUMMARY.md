@@ -7,6 +7,7 @@
 * [Understanding Truth](foundation/understanding-truth.md)
 * [System Values](foundation/value-system.md)
 * [Limits of Engagement](foundation/limits-of-engagement.md)
+* [Long-term Games](foundation/long-term-games.md)
 
 ## Starting at TVP <a id="starting"></a>
 
@@ -29,6 +30,7 @@
 * [ETA Culture](succeeding/eta-culture.md)
 * [Daily Logs](succeeding/daily-logs.md)
 * [Weekend Syncups](succeeding/weekend-syncup.md)
+* [6-month Audit](succeeding/6-month-audit.md)
 
 ## Operating at TVP <a id="operating"></a>
 
@@ -60,9 +62,9 @@
 * [Seeing the Real 'Why'](executing/the-real-why.md)
 * [Understanding Value](executing/understanding-value.md)
 
-## Leaving TVP <a id="leaving"></a>
+## Exiting TVP <a id="exiting"></a>
 
-* [Celebrating Goodbyes](leaving/celebrating-goodbyes.md)
+* [Celebrating Goodbyes](exiting/celebrating-goodbyes.md)
 
 ---
 

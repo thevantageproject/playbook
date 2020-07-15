@@ -16,11 +16,15 @@ Here is what you'll be committing to:
 
 ### Engagement Contract
 
-Contracts are documentation of our expectations from each other. We do 11-month [194J contracts](https://cleartax.in/s/section-194j/) that are set to auto-renew.
+Contracts are documentation of our expectations from each other. We do 6-month [194J contracts](https://cleartax.in/s/section-194j/) that are set to auto-renew.
+
+{% page-ref page="compensation-principle.md" %}
 
  We have designed them to be:
 
 1. **Simple** Jargons don't help establish trust. Information does. We include 'just enough' information that is needed to empower you. 
 2. **Transparent** Trust is a fickle instrument. A commitment made without absolute visibility on what it is that is being committed to, is a farce.  
 3. **Human-readable** Consent needs to be explicit. That requires errorless communication. 
+
+
 

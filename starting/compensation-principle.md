@@ -1,10 +1,13 @@
 ---
-description: Expressing our gratitude for choosing to join us
+description: >-
+  Our goal with salary (base pay) is that it checks the box of "enough" for
+  individuals who are excited about working here (because of our mission,
+  people, and work) and then fades into the background.
 ---
 
 # Compensation Principle
 
-Our goal with salary \(base pay\) is that it checks the box of "enough" for individuals who are excited about working here \(because of our mission, people, and work\) and then fades into the background.
+[http://chamatharchive.com/liquidity-and-team-turnover/](http://chamatharchive.com/liquidity-and-team-turnover/)
 
 We follow a level-based structure corresponding to each [ascend level](https://playbook.thevantageproject.com/evolving/basics-of-ascending/). The idea is to prevent salary \(base pay\) from becoming a guessing game. It's simple and straight forward.
 
