@@ -10,7 +10,7 @@ Hence, we stay clear of it. Instead, we \(i.e. you and us\) decide and commit to
 
 Here is what you'll be committing to:
 
-1. Engagement contract: [Template](https://docs.google.com/document/d/11J0nJaAOqBjHGz4J0JK4b4cW-BGTOc31rpAWuJsjomI/edit)
+1. Engagement contract: [**TEMPLATE**](https://docs.google.com/document/d/11J0nJaAOqBjHGz4J0JK4b4cW-BGTOc31rpAWuJsjomI/edit)\*\*\*\*
 2. [Limits of engagement](https://playbook.thevantageproject.com/foundation/limits-of-engagement)
 3. Self-Responsibility 
 
