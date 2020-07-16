@@ -1,7 +1,7 @@
 ---
 description: >-
-  We place disproportionate value on individual desire for achievement and for
-  work to be its highest self-expression.
+  "We place disproportionate value on individual desire for achievement and for
+  work to be its highest self-expression." - Playbook
 ---
 
 # 6-month Audit
