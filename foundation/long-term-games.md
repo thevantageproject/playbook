@@ -5,7 +5,7 @@ description: >-
   cutting up the pie." - @naval
 ---
 
-# Long-term Games
+# Long-term Players
 
 ### Playing Long-term games with Long-term players
 
@@ -44,7 +44,7 @@ Equity here is:
 
 When growth doesn't occur within a system, it occurs outside. And it costs the system it's existence. 
 
-Ascend path is a guided journey for individual growth within the organization, designed for 10x growth in wealth in 3 years.
+Ascend path is a guided journey for individual growth within the organization, designed for 10x growth in wealth in 3 years. 
 
 {% page-ref page="../evolving/basics-of-ascending.md" %}
 
@@ -52,7 +52,7 @@ Ascend path is a guided journey for individual growth within the organization, d
 
 #### 4. Psychological Safety
 
-Truth is the only source of peace. 
+Keep all your neurons aligned towards achieving success. 
 
 Safety does not come from delusional promises of permanency or setting mediocre expectations. Ephemerality is the fundamental nature of the universe.   
   

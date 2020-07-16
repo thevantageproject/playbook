@@ -7,7 +7,7 @@
 * [Understanding Truth](foundation/understanding-truth.md)
 * [System Values](foundation/value-system.md)
 * [Limits of Engagement](foundation/limits-of-engagement.md)
-* [Long-term Games](foundation/long-term-games.md)
+* [Long-term Players](foundation/long-term-games.md)
 
 ## Starting at TVP <a id="starting"></a>
 
@@ -45,12 +45,8 @@
 ## Evolving at TVP <a id="evolving"></a>
 
 * [Basics of Ascending](evolving/basics-of-ascending.md)
-* [Problem Solver Path](evolving/problem-solver-ascend-path.md)
-* [Problem See-er Path](evolving/problem-see-er-ascend-path/README.md)
-  * [Principles](evolving/problem-see-er-ascend-path/tools.md)
-  * [Specific Knowledge](evolving/problem-see-er-ascend-path/specific-knowledge.md)
-  * [Path](evolving/problem-see-er-ascend-path/path.md)
-  * [Attributes](evolving/problem-see-er-ascend-path/attributes.md)
+* [Problem Solver Path](https://docs.google.com/spreadsheets/d/18VyIU74VTjJ9m1lkchmo_aAn5KN3GkpSpjbOH_QiZGM/edit?via_commande=true#gid=0)
+* [Problem See-er Path](evolving/problem-see-er-ascend-path.md)
 * [Organisational Maturity Path](evolving/organisational-maturity-path.md)
 * [Team Maturity Path](evolving/team-maturity-path.md)
 
@@ -61,6 +57,11 @@
 * [Critical Constraint](executing/critical-constraint.md)
 * [Seeing the Real 'Why'](executing/the-real-why.md)
 * [Understanding Value](executing/understanding-value.md)
+* [Observe](executing/observe.md)
+* [Leading](executing/leading.md)
+* [Team as the atomic unit](executing/team-as-the-atomic-unit.md)
+* [Influence](executing/influence.md)
+* [System Thinking](executing/system-thinking.md)
 
 ## Exiting TVP <a id="exiting"></a>
 

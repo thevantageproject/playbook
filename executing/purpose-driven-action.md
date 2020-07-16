@@ -4,7 +4,7 @@ description: Let your activity serve an output. Let that output serve a business
 
 # Purpose Driven Action
 
-## All motion is not Progress
+### All motion is not Progress
 
 It's difficult to see the difference in the middle of an activity. The problem lies in our belief system.
 
@@ -12,7 +12,9 @@ Reference [_Start with Answer first \| Effective Communication_](https://playboo
 
 We are conditioned to start with what we know instead of what is needed to be done for the outcome to occur, irrespective of my current pool of knowledge.
 
-## Purpose-First 
+### 
+
+### Purpose-First 
 
 When starting to execute, take a pause. Start with a visual of what is that you want to occur. Then, backpropagate to visualizing the set of activities that will reckon its occurrence certain.
 
@@ -20,7 +22,9 @@ Let that view be persistent during all that you do henceforth, until output is a
 
 In this state, activity isn't the destination in itself, but a mere run-time requirement.
 
-## Not all Purposes are equal
+### 
+
+### Not all Purposes are equal
 
 At any given time, a team is optimizing for only 1 of the 4 variables, while keeping others:
 

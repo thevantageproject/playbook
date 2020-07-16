@@ -13,7 +13,9 @@ Status is always the most obvious answer. And the most untrue.
 
 Keep asking the why until you reach an answer that you can change in yourself.
 
-## Role of Values
+### 
+
+### Role of Values
 
 Our mind makes decisions based on the value system it is subscribed to. Most of it is learned, through social institutionalization. Not discovered within.
 

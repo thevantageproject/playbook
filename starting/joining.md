@@ -16,7 +16,7 @@ Here is what you'll be committing to:
 
 ### Engagement Contract
 
-Contracts are documentation of our expectations from each other. We do 6-month [194J contracts](https://cleartax.in/s/section-194j/) that are set to auto-renew.
+Contracts are documentation of our expectations from each other. We do 6-month [194J contracts](https://cleartax.in/s/section-194j/) that are set to auto-renew. [Why 6 months?](https://playbook.thevantageproject.com/succeeding/6-month-audit)
 
 {% page-ref page="compensation-principle.md" %}
 
