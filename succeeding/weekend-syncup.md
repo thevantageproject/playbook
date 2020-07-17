@@ -25,7 +25,7 @@ Done asynchronously as a [silent meeting](http://playbook.thevantageproject.com/
    &lt;copy data from last syncup&gt;
 
   
-   **What did actually get accomplished last week?**  
+   **What did actually get accomplished this week?**  
    This section is for your observation only. Use this for self-feedback.  
   
    Include:
@@ -41,7 +41,7 @@ Done asynchronously as a [silent meeting](http://playbook.thevantageproject.com/
   
    Use this data to improve \#1.  
 
-3. **Blockers faced in the past week** Understanding the problem completely is the solution itself.
+3. **Blockers faced in this week** Understanding the problem completely is the solution itself.
 
 [**USE TEMPLATE**](https://docs.google.com/document/d/13i6v7RmvShs5swsbRmawXkOdXCZRGSos1ybKAdWMNrQ/edit)\*\*\*\*
 
