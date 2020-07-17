@@ -38,6 +38,8 @@ Done asynchronously as a [silent meeting](http://playbook.thevantageproject.com/
 
 
    Reality != Being conservative. Reality != heroism. Reality = truth.  
+  
+   Use this data to improve \#1.  
 
 3. **Blockers faced in the past week** Understanding the problem completely is the solution itself.
 
