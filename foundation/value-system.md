@@ -39,9 +39,21 @@ Thinking + Doing = \(Possible\) Learning
 
 We offer a high-paced journey that will keep you on your toes.
 
+### 
+
 ### Audacious Grit
 
 Audacity in vision. Sincerity in execution.  
   
 There is no substitute for hard work. And there is no substitute for dreaming big. Life can be starkly different 6 months from now, that what it is today. Let's make it large.
+
+
+
+### Meritocracy
+
+Not democracy.
+
+{% embed url="https://www.youtube.com/watch?v=fLJBzhcSWTk" %}
+
+
 
