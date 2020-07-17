@@ -50,22 +50,29 @@
 * [Organisational Maturity Path](evolving/organisational-maturity-path.md)
 * [Team Maturity Path](evolving/team-maturity-path.md)
 
-## Executing at TVP <a id="executing"></a>
-
-* [Purpose Driven Action](executing/purpose-driven-action.md)
-* [Output as a Process](executing/output-as-a-process.md)
-* [Critical Constraint](executing/critical-constraint.md)
-* [Seeing the Real 'Why'](executing/the-real-why.md)
-* [Understanding Value](executing/understanding-value.md)
-* [Observe](executing/observe.md)
-* [Leading](executing/leading.md)
-* [Team as the atomic unit](executing/team-as-the-atomic-unit.md)
-* [Influence](executing/influence.md)
-* [System Thinking](executing/system-thinking.md)
-
 ## Exiting TVP <a id="exiting"></a>
 
 * [Celebrating Goodbyes](exiting/celebrating-goodbyes.md)
+
+## Executing at TVP <a id="executing"></a>
+
+* [Empathy in a Team](executing/empathy-in-a-team.md)
+* [Understanding 'Done'](executing/understanding-done.md)
+* [Self-Reponsibility](executing/self-reponsibility.md)
+* [Critical Constraint](executing/critical-constraint.md)
+* [Purpose Driven Action](executing/purpose-driven-action.md)
+* [Affordance](executing/affordance.md)
+* [Second Order Thinking](executing/second-order-thinking.md)
+* [Truth Seeking](executing/truth-seeking.md)
+* [Systems Thinking](executing/system-thinking.md)
+* [Compounding](executing/compounding.md)
+* [Observe](executing/observe.md)
+* [Understanding Value](executing/understanding-value.md)
+* [Output as a Process](executing/output-as-a-process.md)
+* [Seeing the Real 'Why'](executing/the-real-why.md)
+* [Leading](executing/leading.md)
+* [Team as the atomic unit](executing/team-as-the-atomic-unit.md)
+* [Influence](executing/influence.md)
 
 ---
 

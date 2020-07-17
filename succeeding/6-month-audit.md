@@ -6,6 +6,8 @@ description: >-
 
 # 6-month Audit
 
+Time to audit your desires.  
+  
 Take a breather every 6 months and **Observe**: 
 
 1. Your journey of the past 6 months

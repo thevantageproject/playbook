@@ -29,7 +29,7 @@ This is a paradigm shift.
  You are responsible for growing system's output. This path will require building the ability to:
 
 1. **Reduce randomness** Predictability is power. It's easier to summon energy when things go 'according to plan.'   Planning will never work. Instead, observe. Zoom out as much as you need, until predictable patterns emerge. Use this view to be leading. Eliminate all elements that increase randomness. 
-2. **Build Resilience** A machine that requires constant tinkering to remain operational, is unusable. Building the ability to withstand external randomness will require vantage i.e. staying ahead of the universe's curve. And building its incentives within the system. 
+2. **Build Resilience** A machine that requires constant tinkering to remain operational, is unusable. Building the ability to withstand external randomness will require vantage i.e. staying ahead of the universe's curve. And building its incentives within the system.  Resilience = Eliminating uncertainty. 
 3. **Establish Control** What can be controlled, can be changed. What can be changed, can be scaled.  
 
 
