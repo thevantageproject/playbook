@@ -8,7 +8,7 @@ description: Let your activity serve an output. Let that output serve a business
 
 It's difficult to see the difference in the middle of an activity. The problem lies in our belief system.
 
-Reference [_Start with Answer first \| Effective Communication_](https://playbook.thevantageproject.com/operating-at-tvp/effective-communication)_._
+Reference [Start with Answer first \| Effective Communication](https://playbook.thevantageproject.com/operating-at-tvp/effective-communication)_._
 
 We are conditioned to start with what we know instead of what is needed to be done for the outcome to occur, irrespective of my current pool of knowledge.
 
@@ -56,7 +56,9 @@ Instead a concept
 3. here is what we understand why we are doing it //business purpose
 4. geenral outline of how we think this is going to work 
 
-## Do less to do more
+### 
+
+### Do less to do more
 
 You can't push growth; you can only remove rate-limiting bottlenecks to growth.
 

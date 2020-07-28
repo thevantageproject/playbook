@@ -49,11 +49,14 @@ Drop the ego and salvate with service.
 > "Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion"  
 > [-Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 
-Observe your life in third person. Observe why it does what it does. See it for what it is, not what you want it to be.  
-If you are merely executing learned behaviors, is there really a 'you'?
+To see reality as is, not as you want it to be. Including the reality that you are, instead of what you think you are.
 
+With that perspective, everything external stops being good or bad; it just is. A mere data point. And that frees the mind to focus on appropriate action, instead of indulging in reaction.  
+  
 This lens of detached observation when applied to the world, is a superpower.  
-Existing in reality, saves time and neurons, that can be used for appropriate action instead.
+Existing, in reality, saves time and neurons that can be used for appropriate action instead.  
+  
+
 
   
 Recommended read: [The Path to Peace Is Truth \| Naval](https://nav.al/truth)
