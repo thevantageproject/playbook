@@ -12,6 +12,8 @@ Unhappy people create mediocre value, if any at all. Being able to do meaningful
 
 Be here only when we are your happy spot. Take self-responsibility. We can afford your happiness, we can't cause it.
 
+{% embed url="https://www.youtube.com/watch?v=10hO3VCINF4" %}
+
 ### 
 
 ### Consent
