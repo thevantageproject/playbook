@@ -11,7 +11,7 @@ description: >-
 
 We follow a level-based structure corresponding to each [Ascend Level](https://playbook.thevantageproject.com/evolving/basics-of-ascending#ascend-paths). The idea is to prevent salary \(base pay\) from becoming a guessing game. It's simple and straight forward.
 
-[**DEEP DIVE**](https://docs.google.com/spreadsheets/d/1iBDXOx5s869vyov9LtV7LHzAvLaxqOoqRx6BIKCSTH4/edit#gid=0)\*\*\*\*
+[**DEEP DIVE**](https://docs.google.com/spreadsheets/d/18VyIU74VTjJ9m1lkchmo_aAn5KN3GkpSpjbOH_QiZGM/edit?via_commande=true#gid=461665169)\*\*\*\*
 
 Earnings here have 4 components:
 
