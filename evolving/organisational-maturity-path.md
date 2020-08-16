@@ -1,6 +1,6 @@
 ---
 description: >-
-  Each process, each team and each business goes through the same level toward
+  Each process, each team and each business goes through the same levels toward
   success.
 ---
 
