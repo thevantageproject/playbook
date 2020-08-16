@@ -16,7 +16,7 @@ description: >-
 
 Solver path is about building consciousness at the Individual level. That makes the bet that individual performance is variable.
 
-See-er path avoids that bet. Instead, the view is of dots, their inter-connectivity, and the patterns that emerge to form a living system. The bet here is that a system's output can be influenced by impacting its structure.
+See-er path avoids that bet. Instead, the view is of dots, their inter-connectivity, and the patterns that emerge to form a living system. The bet here is that a system's output can be influenced by impacting its structure. The output of each dot is assumed to be inflexible. 
 
 The individual is no longer personally relevant.
 

@@ -34,11 +34,11 @@ Lie starts with intent. A concealed truth is also a lie. Choose to be absolutely
 
 ### Non-Violence
 
-You may offload your agitations onto others. What offends you is your responsibility; address it within.
+You may not offload your agitations onto others. What offends you is your responsibility; address it within.
 
 
 
-### Merit-First
+### Wealth. Not Status.
 
 Everyone's place here is based on the value that they add, not where they come from or what they choose to be. This requires no entitlement or special privileges/considerations. 
 
