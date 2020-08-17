@@ -1,5 +1,11 @@
 # Output as a Process
 
+{% hint style="warning" %}
+This section is incomplete and work in progress. Please proceed with caution.
+{% endhint %}
+
+
+
 ### Output is an occurrence, that occurs as a result of a set of activities.
 
 Think of a production line that manufactures cars \(for visual\). The output is a completely built car with an assembly line assembling different parts.

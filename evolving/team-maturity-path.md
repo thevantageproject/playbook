@@ -4,8 +4,6 @@ description: This is how you can ascend your team to peak performance.
 
 # Team Maturity Path
 
-
-
 {% hint style="warning" %}
 This section is incomplete and work in progress. Please proceed with caution.
 {% endhint %}

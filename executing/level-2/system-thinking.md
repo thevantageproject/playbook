@@ -1,5 +1,9 @@
 # Systems Thinking
 
+{% hint style="warning" %}
+This section is incomplete and work in progress. Please proceed with caution.
+{% endhint %}
+
 "This is happening because the incentives are set up that way". Most effecient incentives are rarely monetary in nature. Spend time to understand why humans do what they do. Recommended read: The Theory of Moral Sentiments by Adam Smith.
 
 Heavily inspired from [How to win by Daniel Gross](https://youtu.be/LH1bewTg-P4?t=1188).
