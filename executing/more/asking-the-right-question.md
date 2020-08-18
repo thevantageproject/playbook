@@ -1,3 +1,7 @@
+---
+description: to yourself
+---
+
 # Asking the Right Question
 
 {% hint style="warning" %}
@@ -15,7 +19,7 @@ Instead of the virtues of the solution on your mind.
 
 Much of the mind is already made up. Mostly occupied by past stored data, whose appropriateness wasn't addressed at the time of writing to disk. 
 
-
+Hence, there are multiple and perhaps infinite right answers. Each right to its question. Taking on an intellectual quest of knowledge completeness is an exercise in indulgence.  
 
 Be Curious. Not skeptical.
 
