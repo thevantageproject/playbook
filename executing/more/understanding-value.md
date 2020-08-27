@@ -83,6 +83,16 @@ Building relevant competence may be a strategy.
 In a world filled with violence and its consequent victimhood, accruing value without taking from others \(including the system\) is a non-obvious idea.  
 
 It will take non-trivial effort to truly see. Do consider [Understanding Truth](https://playbook.thevantageproject.com/foundation/understanding-truth) and [Limits of Engagement](https://playbook.thevantageproject.com/foundation/limits-of-engagement) sections again.   
+
+
+
+
+### Scribbles:
+
+#### Understanding Business Value
+
+[https://www.youtube.com/watch?v=3Fx5Q8xGU8k](https://www.youtube.com/watch?v=3Fx5Q8xGU8k)
+
   
  
 
