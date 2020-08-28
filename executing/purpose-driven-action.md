@@ -47,3 +47,15 @@ Similarily for a team, seeing the better shared common view is the way to create
 
 Our beliefs are our only constraints.
 
+
+
+### Extending the Thought
+
+{% embed url="https://twitter.com/ShaneAParrish/status/1298972029656264704" %}
+
+A helpful read here would be: 
+
+{% page-ref page="more/asking-the-right-question.md" %}
+
+
+
