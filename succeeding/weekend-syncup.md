@@ -32,12 +32,12 @@ Done asynchronously as a [silent meeting](http://playbook.thevantageproject.com/
 
    1. Status check of progress on line items from the last Syncup.
       1. Mention progress, not motion.
-      2. Keep it focused to work. 
-   2. Add things that weren't planned but occurred.
+      2. Add things that weren't planned but occurred.
+   2. Address work-related status first. Then extend it to all else that occurred during the week. 
 
 
 
-   Reality != Being conservative. Reality != heroism. Reality = truth.  
+   Reality != Being conservative. Reality != Heroism. Reality = Truth.  
   
    Use this data to improve \#1.  
 
