@@ -73,12 +73,12 @@
   * [Output as a Process](executing/level-3/output-as-a-process.md)
   * [Seeing the Real 'Why'](executing/level-3/the-real-why.md)
   * [Leading](executing/level-3/leading.md)
-* [More](executing/more/README.md)
-  * [Run-time Outcome != Output](executing/more/output.md)
-  * [Asking the Right Question](executing/more/asking-the-right-question.md)
-  * [Understanding Value](executing/more/understanding-value.md)
-  * [Influence](executing/more/influence.md)
-  * [Team as the atomic unit](executing/more/team-as-the-atomic-unit.md)
+* [Alpha](executing/alpha/README.md)
+  * [Run-time Outcome != Output](executing/alpha/output.md)
+  * [Asking the Right Question](executing/alpha/asking-the-right-question.md)
+  * [Understanding Value](executing/alpha/understanding-value.md)
+  * [Influence](executing/alpha/influence.md)
+  * [Team as the atomic unit](executing/alpha/team-as-the-atomic-unit.md)
 
 ---
 

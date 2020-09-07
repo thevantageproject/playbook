@@ -55,7 +55,7 @@ Our beliefs are our only constraints.
 
 A helpful read here would be: 
 
-{% page-ref page="more/asking-the-right-question.md" %}
+{% page-ref page="alpha/asking-the-right-question.md" %}
 
 
 
