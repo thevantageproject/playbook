@@ -55,7 +55,7 @@ With that perspective, everything external stops being good or bad; it just is. 
   
 This lens of detached observation when applied to the world, is a superpower.  
 Existing, in reality, saves time and neurons that can be used for appropriate action instead.  
-  
+Thus, creating the shortest path to outcome. And creating an unbeatable edge over the rest.  
 
 
   
