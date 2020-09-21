@@ -91,7 +91,11 @@ It will take non-trivial effort to truly see. Do consider [Understanding Truth](
 
 #### Understanding Business Value
 
-[https://www.youtube.com/watch?v=3Fx5Q8xGU8k](https://www.youtube.com/watch?v=3Fx5Q8xGU8k)
+{% embed url="https://www.youtube.com/watch?v=3Fx5Q8xGU8k" %}
+
+{% embed url="https://twitter.com/visualizevalue/status/1307822363246030848?s=21" %}
+
+
 
   
  
